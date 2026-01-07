@@ -1,5 +1,5 @@
 ## Project Structure
-
+```
 asana-simulation/
 │
 ├── logs/
@@ -47,6 +47,7 @@ asana-simulation/
 ├── README.md                  # Project documentation (this file)
 ├── requirements.txt           # Python dependencies
 └── schema.sql                 # Database schema
+```
 
 ##  Getting Started
 
@@ -79,4 +80,5 @@ View the database structure:
 ```
 sqlite3 output/asana_simulation.sqlite ".schema"
 ```
+
 
