@@ -1,0 +1,1896 @@
+2026-01-06 16:41:01,771 - __main__ - INFO - ============================================================
+2026-01-06 16:41:01,771 - __main__ - INFO - Configuration:
+2026-01-06 16:41:01,772 - __main__ - INFO -   total_users: 200
+2026-01-06 16:41:01,772 - __main__ - INFO -   total_teams: 30
+2026-01-06 16:41:01,772 - __main__ - INFO -   total_projects: 50
+2026-01-06 16:41:01,773 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 16:41:01,773 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 16:41:01,774 - __main__ - INFO -   use_gemini: True
+2026-01-06 16:41:01,775 - __main__ - INFO -   gemini_model: gemini-1.5-flash
+2026-01-06 16:41:02,496 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 16:48:15,841 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 16:48:15,841 - __main__ - INFO - ============================================================
+2026-01-06 16:48:15,843 - __main__ - INFO - Configuration:
+2026-01-06 16:48:15,843 - __main__ - INFO -   total_users: 200
+2026-01-06 16:48:15,843 - __main__ - INFO -   total_teams: 30
+2026-01-06 16:48:15,843 - __main__ - INFO -   total_projects: 50
+2026-01-06 16:48:15,844 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 16:48:15,844 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 16:48:15,844 - __main__ - INFO -   use_gemini: True
+2026-01-06 16:48:15,844 - __main__ - INFO -   gemini_model: gemini-1.5-flash
+2026-01-06 16:48:16,363 - __main__ - INFO - Gemini connection test successful
+2026-01-06 16:48:16,364 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 16:48:16,463 - __main__ - INFO - Database schema created successfully
+2026-01-06 16:48:16,463 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 16:48:16,471 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 16:48:16,471 - __main__ - INFO - 
+Step 3: Generating 200 users...
+2026-01-06 16:48:16,518 - __main__ - ERROR - Failed to generate users: UNIQUE constraint failed: users.email
+2026-01-06 16:56:03,614 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 16:56:03,614 - __main__ - INFO - ============================================================
+2026-01-06 16:56:03,615 - __main__ - INFO - Configuration:
+2026-01-06 16:56:03,615 - __main__ - INFO -   total_users: 200
+2026-01-06 16:56:03,616 - __main__ - INFO -   total_teams: 30
+2026-01-06 16:56:03,616 - __main__ - INFO -   total_projects: 50
+2026-01-06 16:56:03,616 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 16:56:03,617 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 16:56:03,617 - __main__ - INFO -   use_gemini: True
+2026-01-06 16:56:03,617 - __main__ - INFO -   gemini_model: gemini-1.5-flash
+2026-01-06 16:56:04,130 - __main__ - INFO - Gemini connection test successful
+2026-01-06 16:56:04,131 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 16:56:04,236 - __main__ - INFO - Database schema created successfully
+2026-01-06 16:56:04,236 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 16:56:04,246 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 16:56:04,247 - __main__ - INFO - 
+Step 3: Generating 200 users...
+2026-01-06 16:56:04,306 - __main__ - INFO - Generated 200 users
+2026-01-06 16:56:04,306 - __main__ - INFO - 
+Step 4: Generating 30 teams...
+2026-01-06 16:56:04,307 - __main__ - ERROR - Failed to generate teams: Can't parse date string `-18 months`
+2026-01-06 17:01:18,047 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 17:01:18,048 - __main__ - INFO - ============================================================
+2026-01-06 17:01:18,049 - __main__ - INFO - Configuration:
+2026-01-06 17:01:18,049 - __main__ - INFO -   total_users: 200
+2026-01-06 17:01:18,049 - __main__ - INFO -   total_teams: 30
+2026-01-06 17:01:18,050 - __main__ - INFO -   total_projects: 50
+2026-01-06 17:01:18,050 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 17:01:18,052 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 17:01:18,052 - __main__ - INFO -   use_gemini: True
+2026-01-06 17:01:18,052 - __main__ - INFO -   gemini_model: gemini-1.5-flash
+2026-01-06 17:01:19,203 - __main__ - INFO - Gemini connection test successful
+2026-01-06 17:01:19,205 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 17:01:19,210 - __main__ - ERROR - Failed to initialize database: table organizations already exists
+2026-01-06 17:02:21,361 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 17:02:21,361 - __main__ - INFO - ============================================================
+2026-01-06 17:02:21,362 - __main__ - INFO - Configuration:
+2026-01-06 17:02:21,363 - __main__ - INFO -   total_users: 200
+2026-01-06 17:02:21,363 - __main__ - INFO -   total_teams: 30
+2026-01-06 17:02:21,363 - __main__ - INFO -   total_projects: 50
+2026-01-06 17:02:21,364 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 17:02:21,364 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 17:02:21,364 - __main__ - INFO -   use_gemini: True
+2026-01-06 17:02:21,364 - __main__ - INFO -   gemini_model: gemini-1.5-flash
+2026-01-06 17:02:21,780 - __main__ - INFO - Gemini connection test successful
+2026-01-06 17:02:21,781 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 17:02:21,861 - __main__ - INFO - Database schema created successfully
+2026-01-06 17:02:21,862 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 17:02:21,869 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 17:02:21,869 - __main__ - INFO - 
+Step 3: Generating 200 users...
+2026-01-06 17:02:21,909 - __main__ - INFO - Generated 200 users
+2026-01-06 17:02:21,909 - __main__ - INFO - 
+Step 4: Generating 30 teams...
+2026-01-06 17:02:21,919 - __main__ - INFO - Generated 30 teams
+2026-01-06 17:02:21,919 - __main__ - INFO - 
+Step 5: Assigning team memberships...
+2026-01-06 17:02:21,934 - __main__ - INFO - Created 205 team memberships
+2026-01-06 17:02:21,935 - __main__ - INFO - 
+Step 6: Generating 50 projects...
+2026-01-06 17:02:21,935 - __main__ - ERROR - Failed to generate projects: Can't parse date string `-18 months`
+2026-01-06 17:04:45,046 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 17:04:45,046 - __main__ - INFO - ============================================================
+2026-01-06 17:04:45,047 - __main__ - INFO - Configuration:
+2026-01-06 17:04:45,047 - __main__ - INFO -   total_users: 200
+2026-01-06 17:04:45,048 - __main__ - INFO -   total_teams: 30
+2026-01-06 17:04:45,048 - __main__ - INFO -   total_projects: 50
+2026-01-06 17:04:45,048 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 17:04:45,048 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 17:04:45,048 - __main__ - INFO -   use_gemini: True
+2026-01-06 17:04:45,049 - __main__ - INFO -   gemini_model: gemini-1.5-flash
+2026-01-06 17:04:45,563 - __main__ - INFO - Gemini connection test successful
+2026-01-06 17:04:45,566 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 17:04:45,665 - __main__ - INFO - Database schema created successfully
+2026-01-06 17:04:45,665 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 17:04:45,673 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 17:04:45,673 - __main__ - INFO - 
+Step 3: Generating 200 users...
+2026-01-06 17:04:45,733 - __main__ - INFO - Generated 200 users
+2026-01-06 17:04:45,734 - __main__ - INFO - 
+Step 4: Generating 30 teams...
+2026-01-06 17:04:45,743 - __main__ - INFO - Generated 30 teams
+2026-01-06 17:04:45,743 - __main__ - INFO - 
+Step 5: Assigning team memberships...
+2026-01-06 17:04:45,763 - __main__ - INFO - Created 203 team memberships
+2026-01-06 17:04:45,763 - __main__ - INFO - 
+Step 6: Generating 50 projects...
+2026-01-06 17:04:45,826 - __main__ - INFO - Generated 50 projects
+2026-01-06 17:04:45,828 - __main__ - INFO - 
+Step 7: Generating project sections...
+2026-01-06 17:04:45,847 - __main__ - INFO - Generated 198 sections
+2026-01-06 17:04:45,848 - __main__ - INFO - 
+Step 8: Generating tasks...
+2026-01-06 17:04:45,848 - __main__ - INFO -    Using Gemini API generation
+2026-01-06 17:04:45,861 - __main__ - ERROR - Failed to generate tasks: unsupported operand type(s) for -: 'datetime.datetime' and 'str'
+2026-01-06 17:10:07,721 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 17:10:07,723 - __main__ - INFO - ============================================================
+2026-01-06 17:10:07,724 - __main__ - INFO - Configuration:
+2026-01-06 17:10:07,724 - __main__ - INFO -   total_users: 200
+2026-01-06 17:10:07,724 - __main__ - INFO -   total_teams: 30
+2026-01-06 17:10:07,724 - __main__ - INFO -   total_projects: 50
+2026-01-06 17:10:07,725 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 17:10:07,725 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 17:10:07,725 - __main__ - INFO -   use_gemini: False
+2026-01-06 17:10:07,725 - __main__ - INFO -   gemini_model: gemini-1.5-flash
+2026-01-06 17:10:07,725 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 17:10:07,727 - __main__ - ERROR - Failed to initialize database: table organizations already exists
+2026-01-06 17:10:20,538 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 17:10:20,539 - __main__ - INFO - ============================================================
+2026-01-06 17:10:20,539 - __main__ - INFO - Configuration:
+2026-01-06 17:10:20,540 - __main__ - INFO -   total_users: 200
+2026-01-06 17:10:20,540 - __main__ - INFO -   total_teams: 30
+2026-01-06 17:10:20,540 - __main__ - INFO -   total_projects: 50
+2026-01-06 17:10:20,540 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 17:10:20,540 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 17:10:20,541 - __main__ - INFO -   use_gemini: False
+2026-01-06 17:10:20,541 - __main__ - INFO -   gemini_model: gemini-1.5-flash
+2026-01-06 17:10:20,541 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 17:10:20,631 - __main__ - INFO - Database schema created successfully
+2026-01-06 17:10:20,631 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 17:10:20,637 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 17:10:20,638 - __main__ - INFO - 
+Step 3: Generating 200 users...
+2026-01-06 17:10:20,684 - __main__ - INFO - Generated 200 users
+2026-01-06 17:10:20,684 - __main__ - INFO - 
+Step 4: Generating 30 teams...
+2026-01-06 17:10:20,694 - __main__ - INFO - Generated 30 teams
+2026-01-06 17:10:20,695 - __main__ - INFO - 
+Step 5: Assigning team memberships...
+2026-01-06 17:10:20,710 - __main__ - INFO - Created 178 team memberships
+2026-01-06 17:10:20,711 - __main__ - INFO - 
+Step 6: Generating 50 projects...
+2026-01-06 17:10:20,796 - __main__ - INFO - Generated 50 projects
+2026-01-06 17:10:20,796 - __main__ - INFO - 
+Step 7: Generating project sections...
+2026-01-06 17:10:20,825 - __main__ - INFO - Generated 198 sections
+2026-01-06 17:10:20,826 - __main__ - INFO - 
+Step 8: Generating tasks...
+2026-01-06 17:10:20,826 - __main__ - INFO -    Using template-based generation
+2026-01-06 17:10:21,864 - __main__ - ERROR - Failed to generate tasks: CHECK constraint failed: effort BETWEEN 1 AND 10
+2026-01-06 17:12:48,277 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 17:12:48,277 - __main__ - INFO - ============================================================
+2026-01-06 17:12:48,278 - __main__ - INFO - Configuration:
+2026-01-06 17:12:48,278 - __main__ - INFO -   total_users: 200
+2026-01-06 17:12:48,279 - __main__ - INFO -   total_teams: 30
+2026-01-06 17:12:48,279 - __main__ - INFO -   total_projects: 50
+2026-01-06 17:12:48,279 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 17:12:48,280 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 17:12:48,280 - __main__ - INFO -   use_gemini: False
+2026-01-06 17:12:48,280 - __main__ - INFO -   gemini_model: gemini-1.5-flash
+2026-01-06 17:12:48,280 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 17:12:48,360 - __main__ - INFO - Database schema created successfully
+2026-01-06 17:12:48,361 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 17:12:48,367 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 17:12:48,368 - __main__ - INFO - 
+Step 3: Generating 200 users...
+2026-01-06 17:12:48,424 - __main__ - INFO - Generated 200 users
+2026-01-06 17:12:48,425 - __main__ - INFO - 
+Step 4: Generating 30 teams...
+2026-01-06 17:12:48,433 - __main__ - INFO - Generated 30 teams
+2026-01-06 17:12:48,434 - __main__ - INFO - 
+Step 5: Assigning team memberships...
+2026-01-06 17:12:48,451 - __main__ - INFO - Created 210 team memberships
+2026-01-06 17:12:48,451 - __main__ - INFO - 
+Step 6: Generating 50 projects...
+2026-01-06 17:12:48,526 - __main__ - INFO - Generated 50 projects
+2026-01-06 17:12:48,527 - __main__ - INFO - 
+Step 7: Generating project sections...
+2026-01-06 17:12:48,558 - __main__ - INFO - Generated 198 sections
+2026-01-06 17:12:48,558 - __main__ - INFO - 
+Step 8: Generating tasks...
+2026-01-06 17:12:48,559 - __main__ - INFO -    Using template-based generation
+2026-01-06 17:12:49,532 - __main__ - INFO - Generated 1027 tasks
+2026-01-06 17:12:49,533 - __main__ - INFO - 
+Sample generated tasks:
+2026-01-06 17:12:49,533 - __main__ - INFO -   1. Bug: performance issue in Payment Processing
+2026-01-06 17:12:49,534 - __main__ - INFO -   2. Black Friday Sale - video content
+2026-01-06 17:12:49,534 - __main__ - INFO -      Desc: Complete this task as per requirements.
+2026-01-06 17:12:49,534 - __main__ - INFO -   3. Bug: race condition in Mobile App
+2026-01-06 17:12:49,535 - __main__ - INFO -      Desc: ## Purpose
+Address bug: race condition in mobile app to enhance user experience ...
+2026-01-06 17:12:49,535 - __main__ - INFO -   4. video content for Black Friday Sale
+2026-01-06 17:12:49,536 - __main__ - INFO -      Desc: ## Goal
+Complete video content for black friday sale as part of ongoing platform...
+2026-01-06 17:12:49,536 - __main__ - INFO -   5. Bug: memory leak in Payment Processing
+2026-01-06 17:12:49,536 - __main__ - INFO - 
+Step 9: Generating subtasks...
+2026-01-06 17:12:49,544 - __main__ - ERROR - Failed to generate subtasks: Incorrect number of bindings supplied. The current statement uses 13, and there are 12 supplied.
+2026-01-06 17:12:49,545 - __main__ - INFO - 
+Step 10: Generating comments...
+2026-01-06 17:12:49,575 - __main__ - INFO - Generated 1000 comments
+2026-01-06 17:12:49,575 - __main__ - INFO - 
+Sample comments:
+2026-01-06 17:12:49,575 - __main__ - INFO -   1. On '[Search Engine] Fix: using new...': Consider refactoring this for better readability.
+2026-01-06 17:12:49,576 - __main__ - INFO -   2. On 'Review status report...': Working on this now.
+2026-01-06 17:12:49,576 - __main__ - INFO -   3. On 'Integrate Payment Processing w...': Tests are passing, but let's add one more edge case.
+2026-01-06 17:12:49,576 - __main__ - INFO - 
+Step 11: Generating tags...
+2026-01-06 17:12:49,593 - __main__ - ERROR - Failed to generate tags: table task_tags has no column named id
+2026-01-06 17:12:49,593 - __main__ - INFO - 
+Step 12: Generating custom fields...
+2026-01-06 17:12:49,593 - __main__ - ERROR - Failed to generate custom fields: name 'CustomFieldGenerator' is not defined
+2026-01-06 17:12:49,594 - __main__ - INFO - 
+Step 13: Validating database...
+2026-01-06 17:12:49,608 - __main__ - WARNING - Found 7 validation issues:
+2026-01-06 17:12:49,608 - __main__ - WARNING -   * Comment aac3d775743241df809440c6915951bd created before task 5ff980ea525346549a7130f056bcbc4c
+2026-01-06 17:12:49,608 - __main__ - WARNING -   * Comment f8bc7ef824fa4ac9b7bb2bd88bc5c4db created before task 09ff6a0058a348a28514674c442540cc
+2026-01-06 17:12:49,608 - __main__ - WARNING -   * Comment 0525827b9fc44e3299ea1b9e53d7ac8f created before task 09ff6a0058a348a28514674c442540cc
+2026-01-06 17:12:49,609 - __main__ - WARNING -   * Due date distribution off for overdue: expected 5.0%, got 78.38364167478092%
+2026-01-06 17:12:49,609 - __main__ - WARNING -   * Due date distribution off for this_week: expected 25.0%, got 8.27653359298929%
+2026-01-06 17:12:49,609 - __main__ - WARNING -   * Due date distribution off for this_month: expected 40.0%, got 4.576436222005842%
+2026-01-06 17:12:49,609 - __main__ - WARNING -   * Due date distribution off for future: expected 20.0%, got 2.239532619279455%
+2026-01-06 17:12:49,609 - __main__ - INFO - 
+============================================================
+2026-01-06 17:12:49,610 - __main__ - INFO - GENERATION COMPLETE - FINAL STATISTICS
+2026-01-06 17:12:49,610 - __main__ - INFO - ============================================================
+2026-01-06 17:12:49,620 - __main__ - INFO - Total Users              : 200
+2026-01-06 17:12:49,621 - __main__ - INFO - Active Users             : 188
+2026-01-06 17:12:49,621 - __main__ - INFO - Total Teams              : 30
+2026-01-06 17:12:49,621 - __main__ - INFO - Total Projects           : 50
+2026-01-06 17:12:49,622 - __main__ - INFO - Active Projects          : 36
+2026-01-06 17:12:49,622 - __main__ - INFO - Total Tasks              : 1027
+2026-01-06 17:12:49,622 - __main__ - INFO - Completed Tasks          : 855
+2026-01-06 17:12:49,623 - __main__ - INFO - Tasks with Due Dates     : 960
+2026-01-06 17:12:49,623 - __main__ - INFO - Overdue Tasks            : 85
+2026-01-06 17:12:49,624 - __main__ - INFO - Unassigned Tasks         : 152
+2026-01-06 17:12:49,624 - __main__ - INFO - Total Comments           : 1000
+2026-01-06 17:12:49,624 - __main__ - INFO - Total Tags               : 50
+2026-01-06 17:12:49,624 - __main__ - INFO - Tasks with Subtasks      : 0
+2026-01-06 17:12:49,625 - __main__ - INFO - Avg Tasks per Project    : 20.5
+2026-01-06 17:12:49,625 - __main__ - INFO - Completion Rate          : 83.3%
+2026-01-06 17:12:49,625 - __main__ - INFO - Overdue Rate             : 8.9%
+2026-01-06 17:12:49,625 - __main__ - INFO - 
+============================================================
+2026-01-06 17:12:49,625 - __main__ - INFO - DATA DISTRIBUTIONS
+2026-01-06 17:12:49,626 - __main__ - INFO - ============================================================
+2026-01-06 17:12:49,628 - __main__ - INFO - 
+Task Priority Distribution:
+2026-01-06 17:12:49,628 - __main__ - INFO -   URGENT :   56 tasks (  5.5%)
+2026-01-06 17:12:49,629 - __main__ - INFO -   HIGH   :  163 tasks ( 15.9%)
+2026-01-06 17:12:49,629 - __main__ - INFO -   MEDIUM :  514 tasks ( 50.0%)
+2026-01-06 17:12:49,629 - __main__ - INFO -   LOW    :  294 tasks ( 28.6%)
+2026-01-06 17:12:49,630 - __main__ - INFO - 
+Due Date Distribution:
+2026-01-06 17:12:49,631 - __main__ - INFO -   Due this month      :   47 tasks (  4.6%)
+2026-01-06 17:12:49,631 - __main__ - INFO -   Due this week       :   85 tasks (  8.3%)
+2026-01-06 17:12:49,631 - __main__ - INFO -   Future due date     :   23 tasks (  2.2%)
+2026-01-06 17:12:49,631 - __main__ - INFO -   No due date         :   67 tasks (  6.5%)
+2026-01-06 17:12:49,632 - __main__ - INFO -   Overdue             :  805 tasks ( 78.4%)
+2026-01-06 17:12:49,633 - __main__ - INFO - 
+Project Type Distribution:
+2026-01-06 17:12:49,633 - __main__ - INFO -   Adhoc          :    1 projects (  2.0%)
+2026-01-06 17:12:49,633 - __main__ - INFO -   Bug Tracking   :    7 projects ( 14.0%)
+2026-01-06 17:12:49,633 - __main__ - INFO -   Campaign       :    5 projects ( 10.0%)
+2026-01-06 17:12:49,634 - __main__ - INFO -   Okr            :    3 projects (  6.0%)
+2026-01-06 17:12:49,634 - __main__ - INFO -   Ongoing        :   12 projects ( 24.0%)
+2026-01-06 17:12:49,634 - __main__ - INFO -   Sprint         :   22 projects ( 44.0%)
+2026-01-06 17:12:49,635 - __main__ - INFO - 
+Team Department Distribution:
+2026-01-06 17:12:49,635 - __main__ - INFO -   Design         :    3 teams
+2026-01-06 17:12:49,636 - __main__ - INFO -   Engineering    :    6 teams
+2026-01-06 17:12:49,636 - __main__ - INFO -   Marketing      :    6 teams
+2026-01-06 17:12:49,636 - __main__ - INFO -   Product        :    7 teams
+2026-01-06 17:12:49,636 - __main__ - INFO -   Sales          :    5 teams
+2026-01-06 17:12:49,636 - __main__ - INFO -   Support        :    3 teams
+2026-01-06 17:12:49,636 - __main__ - INFO - 
+============================================================
+2026-01-06 17:12:49,637 - __main__ - INFO - GENERATION SUMMARY
+2026-01-06 17:12:49,637 - __main__ - INFO - ============================================================
+2026-01-06 17:12:49,637 - __main__ - INFO - Start time: 17:12:48
+2026-01-06 17:12:49,637 - __main__ - INFO - End time:   17:12:49
+2026-01-06 17:12:49,637 - __main__ - INFO - Duration:   0:00:01.358598
+2026-01-06 17:12:49,638 - __main__ - INFO - Database:   output/asana_simulation.sqlite
+2026-01-06 17:12:49,638 - __main__ - INFO - LLM Used:   Templates Only
+2026-01-06 17:12:49,638 - __main__ - INFO - 
+============================================================
+2026-01-06 17:12:49,638 - __main__ - INFO - SAMPLE QUERIES TO EXPLORE DATA
+2026-01-06 17:12:49,638 - __main__ - INFO - ============================================================
+2026-01-06 17:12:49,638 - __main__ - INFO - 1. All tasks in a project:
+2026-01-06 17:12:49,639 - __main__ - INFO -    SELECT t.name, u.name as assignee, t.due_date
+2026-01-06 17:12:49,639 - __main__ - INFO -    FROM tasks t LEFT JOIN users u ON t.assignee_id = u.id
+2026-01-06 17:12:49,639 - __main__ - INFO -    WHERE t.project_id = (SELECT id FROM projects LIMIT 1)
+2026-01-06 17:12:49,639 - __main__ - INFO - 
+2026-01-06 17:12:49,639 - __main__ - INFO - 2. Overdue tasks by team:
+2026-01-06 17:12:49,639 - __main__ - INFO -    SELECT t.name as team, COUNT(*) as overdue_tasks
+2026-01-06 17:12:49,640 - __main__ - INFO -    FROM teams t
+2026-01-06 17:12:49,640 - __main__ - INFO -    JOIN projects p ON t.id = p.team_id
+2026-01-06 17:12:49,640 - __main__ - INFO -    JOIN tasks tk ON p.id = tk.project_id
+2026-01-06 17:12:49,640 - __main__ - INFO -    WHERE tk.due_date < DATE('now') AND tk.completed = 0
+2026-01-06 17:12:49,640 - __main__ - INFO -    GROUP BY t.name
+2026-01-06 17:12:49,640 - __main__ - INFO - 
+2026-01-06 17:12:49,640 - __main__ - INFO - 3. User workload:
+2026-01-06 17:12:49,641 - __main__ - INFO -    SELECT u.name, COUNT(t.id) as task_count
+2026-01-06 17:12:49,641 - __main__ - INFO -    FROM users u
+2026-01-06 17:12:49,641 - __main__ - INFO -    LEFT JOIN tasks t ON u.id = t.assignee_id
+2026-01-06 17:12:49,641 - __main__ - INFO -    GROUP BY u.name
+2026-01-06 17:12:49,641 - __main__ - INFO -    ORDER BY task_count DESC
+2026-01-06 17:12:49,642 - __main__ - INFO - 
+2026-01-06 17:12:49,643 - __main__ - INFO - Explore with: sqlite3 output/asana_simulation.sqlite
+2026-01-06 17:12:49,643 - __main__ - INFO - 
+============================================================
+2026-01-06 17:12:49,643 - __main__ - INFO - >>> ASANA SIMULATION GENERATION COMPLETE!
+2026-01-06 17:12:49,644 - __main__ - INFO - ============================================================
+2026-01-06 17:39:06,246 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 17:39:06,247 - __main__ - INFO - ============================================================
+2026-01-06 17:39:06,248 - __main__ - INFO - Configuration:
+2026-01-06 17:39:06,248 - __main__ - INFO -   total_users: 200
+2026-01-06 17:39:06,248 - __main__ - INFO -   total_teams: 30
+2026-01-06 17:39:06,249 - __main__ - INFO -   total_projects: 50
+2026-01-06 17:39:06,249 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 17:39:06,249 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 17:39:06,249 - __main__ - INFO -   use_gemini: False
+2026-01-06 17:39:06,250 - __main__ - INFO -   gemini_model: gemini-1.5-flash
+2026-01-06 17:39:06,250 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 17:39:06,347 - __main__ - INFO - Database schema created successfully
+2026-01-06 17:39:06,347 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 17:39:06,356 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 17:39:06,357 - __main__ - INFO - 
+Step 3: Generating 200 users...
+2026-01-06 17:39:06,420 - __main__ - INFO - Generated 200 users
+2026-01-06 17:39:06,420 - __main__ - INFO - 
+Step 4: Generating 30 teams...
+2026-01-06 17:39:06,431 - __main__ - INFO - Generated 30 teams
+2026-01-06 17:39:06,431 - __main__ - INFO - 
+Step 5: Assigning team memberships...
+2026-01-06 17:39:06,456 - __main__ - INFO - Created 219 team memberships
+2026-01-06 17:39:06,458 - __main__ - INFO - 
+Step 6: Generating 50 projects...
+2026-01-06 17:39:06,528 - __main__ - INFO - Generated 50 projects
+2026-01-06 17:39:06,528 - __main__ - INFO - 
+Step 7: Generating project sections...
+2026-01-06 17:39:06,559 - __main__ - INFO - Generated 200 sections
+2026-01-06 17:39:06,560 - __main__ - INFO - 
+Step 8: Generating tasks...
+2026-01-06 17:39:06,560 - __main__ - INFO -    Using template-based generation
+2026-01-06 17:39:07,779 - __main__ - INFO - Generated 1081 tasks
+2026-01-06 17:39:07,779 - __main__ - INFO - 
+Sample generated tasks:
+2026-01-06 17:39:07,780 - __main__ - INFO -   1. [Notification System] Document: with improved performance
+2026-01-06 17:39:07,780 - __main__ - INFO -      Desc: Follow the standard procedure.
+2026-01-06 17:39:07,780 - __main__ - INFO -   2. Prepare documentation
+2026-01-06 17:39:07,781 - __main__ - INFO -   3. Upgrade Notification System for mobile responsiveness
+2026-01-06 17:39:07,781 - __main__ - INFO -      Desc: Coordinate with team members as needed.
+2026-01-06 17:39:07,781 - __main__ - INFO -   4. [Backend API] Fix: for enterprise customers
+2026-01-06 17:39:07,782 - __main__ - INFO -      Desc: ## Goal
+Complete [backend api] fix: for enterprise customers as part of ongoing ...
+2026-01-06 17:39:07,782 - __main__ - INFO -   5. [Database Layer] Migrate: for better user experience
+2026-01-06 17:39:07,782 - __main__ - INFO -      Desc: Follow the standard procedure.
+2026-01-06 17:39:07,782 - __main__ - INFO - 
+Step 9: Generating subtasks...
+2026-01-06 17:39:07,800 - __main__ - ERROR - Failed to generate subtasks: Incorrect number of bindings supplied. The current statement uses 13, and there are 12 supplied.
+2026-01-06 17:39:07,800 - __main__ - INFO - 
+Step 10: Generating comments...
+2026-01-06 17:39:07,828 - __main__ - INFO - Generated 1000 comments
+2026-01-06 17:39:07,828 - __main__ - INFO - 
+Sample comments:
+2026-01-06 17:39:07,828 - __main__ - INFO -   1. On 'Update meeting notes...': What's the deadline for this task?
+2026-01-06 17:39:07,828 - __main__ - INFO -   2. On 'Frontend Components - Refactor...': Consider refactoring this for better readability.
+2026-01-06 17:39:07,829 - __main__ - INFO -   3. On 'Document Notification System w...': ✅ Approved - ready for merge.
+2026-01-06 17:39:07,829 - __main__ - INFO - 
+Step 11: Generating tags...
+2026-01-06 17:39:07,846 - __main__ - ERROR - Failed to generate tags: table task_tags has no column named id
+2026-01-06 17:39:07,847 - __main__ - INFO - 
+Step 12: Generating custom fields...
+2026-01-06 17:39:07,847 - __main__ - ERROR - Failed to generate custom fields: name 'CustomFieldGenerator' is not defined
+2026-01-06 17:39:07,847 - __main__ - INFO - 
+Step 13: Validating database...
+2026-01-06 17:39:07,863 - __main__ - WARNING - Found 23 validation issues:
+2026-01-06 17:39:07,864 - __main__ - WARNING -   * Comment 1e29ae2128d441ecbacbb9a354669a67 created before task 0844e0d218704fb590f0a0bd178ce985
+2026-01-06 17:39:07,864 - __main__ - WARNING -   * Comment 001094ecfb1b4422a0020ef8b39d8816 created before task bd71fa15ea654a348f86753d484e6820
+2026-01-06 17:39:07,865 - __main__ - WARNING -   * Comment 2d12430e50c54ba98a26c622e9c9834b created before task bd71fa15ea654a348f86753d484e6820
+2026-01-06 17:39:07,866 - __main__ - WARNING -   * Comment 2d4007c852954d29b318b9178a803c99 created before task bd71fa15ea654a348f86753d484e6820
+2026-01-06 17:39:07,867 - __main__ - WARNING -   * Comment 6f8be17f251941bfb72a7547e71ba0be created before task a09bb4c3fa0444a9a8c2e89628112c22
+2026-01-06 17:39:07,867 - __main__ - WARNING -   * Comment 1c6e67da953d48e1bd7d02e8a6f5e488 created before task 76d001d7480b418cb8cc8a7e5c9f8c4d
+2026-01-06 17:39:07,867 - __main__ - WARNING -   * Comment 0a67740cd0894ed9b582591754ce5624 created before task bd71fa15ea654a348f86753d484e6820
+2026-01-06 17:39:07,868 - __main__ - WARNING -   * Comment c450b95a84154695ace3ab22c17af059 created before task 9e4efc44b8384e449a8b1f7e8d42116a
+2026-01-06 17:39:07,868 - __main__ - WARNING -   * Comment 67d39067225f4574be2fe3e38bfa6ebb created before task 9e4efc44b8384e449a8b1f7e8d42116a
+2026-01-06 17:39:07,868 - __main__ - WARNING -   * Comment f66a1e9b68e94e4f98868c3d396b342b created before task bd71fa15ea654a348f86753d484e6820
+2026-01-06 17:39:07,869 - __main__ - WARNING -   ... and 13 more issues
+2026-01-06 17:39:07,871 - __main__ - INFO - 
+============================================================
+2026-01-06 17:39:07,871 - __main__ - INFO - GENERATION COMPLETE - FINAL STATISTICS
+2026-01-06 17:39:07,871 - __main__ - INFO - ============================================================
+2026-01-06 17:39:07,884 - __main__ - INFO - Total Users              : 200
+2026-01-06 17:39:07,886 - __main__ - INFO - Active Users             : 187
+2026-01-06 17:39:07,886 - __main__ - INFO - Total Teams              : 30
+2026-01-06 17:39:07,886 - __main__ - INFO - Total Projects           : 50
+2026-01-06 17:39:07,887 - __main__ - INFO - Active Projects          : 34
+2026-01-06 17:39:07,887 - __main__ - INFO - Total Tasks              : 1081
+2026-01-06 17:39:07,887 - __main__ - INFO - Completed Tasks          : 923
+2026-01-06 17:39:07,887 - __main__ - INFO - Tasks with Due Dates     : 1005
+2026-01-06 17:39:07,888 - __main__ - INFO - Overdue Tasks            : 92
+2026-01-06 17:39:07,889 - __main__ - INFO - Unassigned Tasks         : 174
+2026-01-06 17:39:07,889 - __main__ - INFO - Total Comments           : 1000
+2026-01-06 17:39:07,889 - __main__ - INFO - Total Tags               : 50
+2026-01-06 17:39:07,889 - __main__ - INFO - Tasks with Subtasks      : 0
+2026-01-06 17:39:07,890 - __main__ - INFO - Avg Tasks per Project    : 21.6
+2026-01-06 17:39:07,890 - __main__ - INFO - Completion Rate          : 85.4%
+2026-01-06 17:39:07,891 - __main__ - INFO - Overdue Rate             : 9.2%
+2026-01-06 17:39:07,891 - __main__ - INFO - 
+============================================================
+2026-01-06 17:39:07,891 - __main__ - INFO - DATA DISTRIBUTIONS
+2026-01-06 17:39:07,891 - __main__ - INFO - ============================================================
+2026-01-06 17:39:07,894 - __main__ - INFO - 
+Task Priority Distribution:
+2026-01-06 17:39:07,894 - __main__ - INFO -   URGENT :   51 tasks (  4.7%)
+2026-01-06 17:39:07,894 - __main__ - INFO -   HIGH   :  146 tasks ( 13.5%)
+2026-01-06 17:39:07,895 - __main__ - INFO -   MEDIUM :  533 tasks ( 49.3%)
+2026-01-06 17:39:07,895 - __main__ - INFO -   LOW    :  351 tasks ( 32.5%)
+2026-01-06 17:39:07,897 - __main__ - INFO - 
+Due Date Distribution:
+2026-01-06 17:39:07,898 - __main__ - INFO -   Due this month      :   33 tasks (  3.1%)
+2026-01-06 17:39:07,898 - __main__ - INFO -   Due this week       :   67 tasks (  6.2%)
+2026-01-06 17:39:07,899 - __main__ - INFO -   Future due date     :   15 tasks (  1.4%)
+2026-01-06 17:39:07,899 - __main__ - INFO -   No due date         :   76 tasks (  7.0%)
+2026-01-06 17:39:07,900 - __main__ - INFO -   Overdue             :  890 tasks ( 82.3%)
+2026-01-06 17:39:07,903 - __main__ - INFO - 
+Project Type Distribution:
+2026-01-06 17:39:07,903 - __main__ - INFO -   Adhoc          :    2 projects (  4.0%)
+2026-01-06 17:39:07,904 - __main__ - INFO -   Bug Tracking   :   11 projects ( 22.0%)
+2026-01-06 17:39:07,904 - __main__ - INFO -   Campaign       :    5 projects ( 10.0%)
+2026-01-06 17:39:07,904 - __main__ - INFO -   Okr            :    4 projects (  8.0%)
+2026-01-06 17:39:07,904 - __main__ - INFO -   Ongoing        :    8 projects ( 16.0%)
+2026-01-06 17:39:07,905 - __main__ - INFO -   Sprint         :   20 projects ( 40.0%)
+2026-01-06 17:39:07,906 - __main__ - INFO - 
+Team Department Distribution:
+2026-01-06 17:39:07,906 - __main__ - INFO -   Design         :    3 teams
+2026-01-06 17:39:07,907 - __main__ - INFO -   Engineering    :   11 teams
+2026-01-06 17:39:07,907 - __main__ - INFO -   Marketing      :    3 teams
+2026-01-06 17:39:07,907 - __main__ - INFO -   Operations     :    1 teams
+2026-01-06 17:39:07,907 - __main__ - INFO -   Product        :    4 teams
+2026-01-06 17:39:07,907 - __main__ - INFO -   Sales          :    8 teams
+2026-01-06 17:39:07,908 - __main__ - INFO - 
+============================================================
+2026-01-06 17:39:07,908 - __main__ - INFO - GENERATION SUMMARY
+2026-01-06 17:39:07,908 - __main__ - INFO - ============================================================
+2026-01-06 17:39:07,908 - __main__ - INFO - Start time: 17:39:06
+2026-01-06 17:39:07,908 - __main__ - INFO - End time:   17:39:07
+2026-01-06 17:39:07,910 - __main__ - INFO - Duration:   0:00:01.661399
+2026-01-06 17:39:07,910 - __main__ - INFO - Database:   output/asana_simulation.sqlite
+2026-01-06 17:39:07,910 - __main__ - INFO - LLM Used:   Templates Only
+2026-01-06 17:39:07,910 - __main__ - INFO - 
+============================================================
+2026-01-06 17:39:07,911 - __main__ - INFO - SAMPLE QUERIES TO EXPLORE DATA
+2026-01-06 17:39:07,911 - __main__ - INFO - ============================================================
+2026-01-06 17:39:07,911 - __main__ - INFO - 1. All tasks in a project:
+2026-01-06 17:39:07,912 - __main__ - INFO -    SELECT t.name, u.name as assignee, t.due_date
+2026-01-06 17:39:07,912 - __main__ - INFO -    FROM tasks t LEFT JOIN users u ON t.assignee_id = u.id
+2026-01-06 17:39:07,913 - __main__ - INFO -    WHERE t.project_id = (SELECT id FROM projects LIMIT 1)
+2026-01-06 17:39:07,913 - __main__ - INFO - 
+2026-01-06 17:39:07,913 - __main__ - INFO - 2. Overdue tasks by team:
+2026-01-06 17:39:07,913 - __main__ - INFO -    SELECT t.name as team, COUNT(*) as overdue_tasks
+2026-01-06 17:39:07,914 - __main__ - INFO -    FROM teams t
+2026-01-06 17:39:07,914 - __main__ - INFO -    JOIN projects p ON t.id = p.team_id
+2026-01-06 17:39:07,914 - __main__ - INFO -    JOIN tasks tk ON p.id = tk.project_id
+2026-01-06 17:39:07,914 - __main__ - INFO -    WHERE tk.due_date < DATE('now') AND tk.completed = 0
+2026-01-06 17:39:07,914 - __main__ - INFO -    GROUP BY t.name
+2026-01-06 17:39:07,915 - __main__ - INFO - 
+2026-01-06 17:39:07,915 - __main__ - INFO - 3. User workload:
+2026-01-06 17:39:07,916 - __main__ - INFO -    SELECT u.name, COUNT(t.id) as task_count
+2026-01-06 17:39:07,918 - __main__ - INFO -    FROM users u
+2026-01-06 17:39:07,918 - __main__ - INFO -    LEFT JOIN tasks t ON u.id = t.assignee_id
+2026-01-06 17:39:07,918 - __main__ - INFO -    GROUP BY u.name
+2026-01-06 17:39:07,919 - __main__ - INFO -    ORDER BY task_count DESC
+2026-01-06 17:39:07,919 - __main__ - INFO - 
+2026-01-06 17:39:07,919 - __main__ - INFO - Explore with: sqlite3 output/asana_simulation.sqlite
+2026-01-06 17:39:07,919 - __main__ - INFO - 
+============================================================
+2026-01-06 17:39:07,919 - __main__ - INFO - >>> ASANA SIMULATION GENERATION COMPLETE!
+2026-01-06 17:39:07,920 - __main__ - INFO - ============================================================
+2026-01-06 17:42:36,828 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 17:42:36,828 - __main__ - INFO - ============================================================
+2026-01-06 17:42:36,829 - __main__ - INFO - Configuration:
+2026-01-06 17:42:36,830 - __main__ - INFO -   total_users: 200
+2026-01-06 17:42:36,830 - __main__ - INFO -   total_teams: 30
+2026-01-06 17:42:36,830 - __main__ - INFO -   total_projects: 50
+2026-01-06 17:42:36,830 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 17:42:36,830 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 17:42:36,831 - __main__ - INFO -   use_gemini: False
+2026-01-06 17:42:36,831 - __main__ - INFO -   gemini_model: gemini-1.5-flash
+2026-01-06 17:42:36,831 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 17:42:36,835 - __main__ - ERROR - Failed to initialize database: table organizations already exists
+2026-01-06 17:42:52,573 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 17:42:52,573 - __main__ - INFO - ============================================================
+2026-01-06 17:42:52,575 - __main__ - INFO - Configuration:
+2026-01-06 17:42:52,575 - __main__ - INFO -   total_users: 200
+2026-01-06 17:42:52,575 - __main__ - INFO -   total_teams: 30
+2026-01-06 17:42:52,576 - __main__ - INFO -   total_projects: 50
+2026-01-06 17:42:52,576 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 17:42:52,576 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 17:42:52,576 - __main__ - INFO -   use_gemini: False
+2026-01-06 17:42:52,576 - __main__ - INFO -   gemini_model: gemini-1.5-flash
+2026-01-06 17:42:52,577 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 17:42:52,679 - __main__ - INFO - Database schema created successfully
+2026-01-06 17:42:52,680 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 17:42:52,687 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 17:42:52,687 - __main__ - INFO - 
+Step 3: Generating 200 users...
+2026-01-06 17:42:52,734 - __main__ - INFO - Generated 200 users
+2026-01-06 17:42:52,734 - __main__ - INFO - 
+Step 4: Generating 30 teams...
+2026-01-06 17:42:52,744 - __main__ - INFO - Generated 30 teams
+2026-01-06 17:42:52,744 - __main__ - INFO - 
+Step 5: Assigning team memberships...
+2026-01-06 17:42:52,759 - __main__ - INFO - Created 212 team memberships
+2026-01-06 17:42:52,760 - __main__ - INFO - 
+Step 6: Generating 50 projects...
+2026-01-06 17:42:52,824 - __main__ - INFO - Generated 50 projects
+2026-01-06 17:42:52,826 - __main__ - INFO - 
+Step 7: Generating project sections...
+2026-01-06 17:42:52,855 - __main__ - INFO - Generated 200 sections
+2026-01-06 17:42:52,856 - __main__ - INFO - 
+Step 8: Generating tasks...
+2026-01-06 17:42:52,857 - __main__ - INFO -    Using template-based generation
+2026-01-06 17:42:53,808 - __main__ - INFO - Generated 962 tasks
+2026-01-06 17:42:53,808 - __main__ - INFO - 
+Sample generated tasks:
+2026-01-06 17:42:53,809 - __main__ - INFO -   1. Complete meeting notes
+2026-01-06 17:42:53,809 - __main__ - INFO -   2. Bug: performance issue in Database Layer
+2026-01-06 17:42:53,809 - __main__ - INFO -      Desc: Follow the standard procedure.
+2026-01-06 17:42:53,809 - __main__ - INFO -   3. Update project plan
+2026-01-06 17:42:53,809 - __main__ - INFO -   4. Bug: race condition in Database Layer
+2026-01-06 17:42:53,810 - __main__ - INFO -   5. Mobile App - Fix - with improved performance
+2026-01-06 17:42:53,810 - __main__ - INFO -      Desc: See attached specifications.
+2026-01-06 17:42:53,810 - __main__ - INFO - 
+Step 9: Generating subtasks...
+2026-01-06 17:42:53,817 - __main__ - ERROR - Failed to generate subtasks: Incorrect number of bindings supplied. The current statement uses 12, and there are 13 supplied.
+2026-01-06 17:42:53,817 - __main__ - INFO - 
+Step 10: Generating comments...
+2026-01-06 17:42:53,844 - __main__ - INFO - Generated 1000 comments
+2026-01-06 17:42:53,845 - __main__ - INFO - 
+Sample comments:
+2026-01-06 17:42:53,845 - __main__ - INFO -   1. On 'Mobile App - Fix - with securi...': ✅ Approved - ready for merge.
+2026-01-06 17:42:53,845 - __main__ - INFO -   2. On '[Backend API] Migrate: for ent...': In progress - about 21% complete.
+2026-01-06 17:42:53,845 - __main__ - INFO -   3. On 'optimize NPS score to support ...': Please add more comments for complex logic.
+2026-01-06 17:42:53,846 - __main__ - INFO - 
+Step 11: Generating tags...
+2026-01-06 17:42:53,862 - __main__ - ERROR - Failed to generate tags: table task_tags has no column named id
+2026-01-06 17:42:53,863 - __main__ - INFO - 
+Step 12: Generating custom fields...
+2026-01-06 17:42:53,863 - __main__ - ERROR - Failed to generate custom fields: name 'CustomFieldGenerator' is not defined
+2026-01-06 17:42:53,864 - __main__ - INFO - 
+Step 13: Validating database...
+2026-01-06 17:42:53,876 - __main__ - WARNING - Found 17 validation issues:
+2026-01-06 17:42:53,877 - __main__ - WARNING -   * Comment e61eeb1360694e3295e082521e5226cb created before task 32e1eccac0234ea99287def1ec87c916
+2026-01-06 17:42:53,877 - __main__ - WARNING -   * Comment 860ed7870c1043e98c7243faf59fe1df created before task f6880563d7e34d308feedcc2b992182d
+2026-01-06 17:42:53,877 - __main__ - WARNING -   * Comment 7df20aa1d2b945978754248e4f505917 created before task 32e1eccac0234ea99287def1ec87c916
+2026-01-06 17:42:53,878 - __main__ - WARNING -   * Comment f2244f4efecc4cf6896b76bc95da17b6 created before task 6aa27b2da9374f139c983e2f23d379ad
+2026-01-06 17:42:53,878 - __main__ - WARNING -   * Comment 86fb717bb05d4c229c76937108b9df27 created before task 063ff950fc9b4a4b8d46c1cbdd352085
+2026-01-06 17:42:53,878 - __main__ - WARNING -   * Comment 4a3ac0bc08c74126b9afbb0013b05b44 created before task f6880563d7e34d308feedcc2b992182d
+2026-01-06 17:42:53,878 - __main__ - WARNING -   * Comment 114a75cc61ba49d6b4b247a11509664e created before task 3512414a91064faf9d86e17e36eb7668
+2026-01-06 17:42:53,878 - __main__ - WARNING -   * Comment 54281f0718d8457dbe179dcc21738c5f created before task f6880563d7e34d308feedcc2b992182d
+2026-01-06 17:42:53,879 - __main__ - WARNING -   * Comment 493d863f4fbf4c0fa691345763fc940c created before task a44df40f611f450fb226727582fc67fa
+2026-01-06 17:42:53,879 - __main__ - WARNING -   * Comment 9090d7001c6c449f8c83a8af4b6bf95b created before task a6c917d40ca140879c83a84e12fea9f1
+2026-01-06 17:42:53,879 - __main__ - WARNING -   ... and 7 more issues
+2026-01-06 17:42:53,879 - __main__ - INFO - 
+============================================================
+2026-01-06 17:42:53,879 - __main__ - INFO - GENERATION COMPLETE - FINAL STATISTICS
+2026-01-06 17:42:53,879 - __main__ - INFO - ============================================================
+2026-01-06 17:42:53,890 - __main__ - INFO - Total Users              : 200
+2026-01-06 17:42:53,891 - __main__ - INFO - Active Users             : 187
+2026-01-06 17:42:53,891 - __main__ - INFO - Total Teams              : 30
+2026-01-06 17:42:53,891 - __main__ - INFO - Total Projects           : 50
+2026-01-06 17:42:53,891 - __main__ - INFO - Active Projects          : 29
+2026-01-06 17:42:53,892 - __main__ - INFO - Total Tasks              : 962
+2026-01-06 17:42:53,892 - __main__ - INFO - Completed Tasks          : 818
+2026-01-06 17:42:53,892 - __main__ - INFO - Tasks with Due Dates     : 896
+2026-01-06 17:42:53,892 - __main__ - INFO - Overdue Tasks            : 72
+2026-01-06 17:42:53,893 - __main__ - INFO - Unassigned Tasks         : 157
+2026-01-06 17:42:53,893 - __main__ - INFO - Total Comments           : 1000
+2026-01-06 17:42:53,893 - __main__ - INFO - Total Tags               : 50
+2026-01-06 17:42:53,893 - __main__ - INFO - Tasks with Subtasks      : 0
+2026-01-06 17:42:53,894 - __main__ - INFO - Avg Tasks per Project    : 19.2
+2026-01-06 17:42:53,894 - __main__ - INFO - Completion Rate          : 85.0%
+2026-01-06 17:42:53,894 - __main__ - INFO - Overdue Rate             : 8.0%
+2026-01-06 17:42:53,894 - __main__ - INFO - 
+============================================================
+2026-01-06 17:42:53,894 - __main__ - INFO - DATA DISTRIBUTIONS
+2026-01-06 17:42:53,895 - __main__ - INFO - ============================================================
+2026-01-06 17:42:53,896 - __main__ - INFO - 
+Task Priority Distribution:
+2026-01-06 17:42:53,897 - __main__ - INFO -   URGENT :   45 tasks (  4.7%)
+2026-01-06 17:42:53,897 - __main__ - INFO -   HIGH   :  144 tasks ( 15.0%)
+2026-01-06 17:42:53,897 - __main__ - INFO -   MEDIUM :  473 tasks ( 49.2%)
+2026-01-06 17:42:53,897 - __main__ - INFO -   LOW    :  300 tasks ( 31.2%)
+2026-01-06 17:42:53,899 - __main__ - INFO - 
+Due Date Distribution:
+2026-01-06 17:42:53,899 - __main__ - INFO -   Due this month      :   50 tasks (  5.2%)
+2026-01-06 17:42:53,900 - __main__ - INFO -   Due this week       :   55 tasks (  5.7%)
+2026-01-06 17:42:53,900 - __main__ - INFO -   Future due date     :    7 tasks (  0.7%)
+2026-01-06 17:42:53,900 - __main__ - INFO -   No due date         :   66 tasks (  6.9%)
+2026-01-06 17:42:53,900 - __main__ - INFO -   Overdue             :  784 tasks ( 81.5%)
+2026-01-06 17:42:53,901 - __main__ - INFO - 
+Project Type Distribution:
+2026-01-06 17:42:53,902 - __main__ - INFO -   Adhoc          :    4 projects (  8.0%)
+2026-01-06 17:42:53,902 - __main__ - INFO -   Bug Tracking   :   12 projects ( 24.0%)
+2026-01-06 17:42:53,902 - __main__ - INFO -   Campaign       :    8 projects ( 16.0%)
+2026-01-06 17:42:53,902 - __main__ - INFO -   Okr            :    5 projects ( 10.0%)
+2026-01-06 17:42:53,903 - __main__ - INFO -   Ongoing        :    4 projects (  8.0%)
+2026-01-06 17:42:53,903 - __main__ - INFO -   Sprint         :   17 projects ( 34.0%)
+2026-01-06 17:42:53,904 - __main__ - INFO - 
+Team Department Distribution:
+2026-01-06 17:42:53,904 - __main__ - INFO -   Design         :    4 teams
+2026-01-06 17:42:53,904 - __main__ - INFO -   Engineering    :   16 teams
+2026-01-06 17:42:53,904 - __main__ - INFO -   Marketing      :    2 teams
+2026-01-06 17:42:53,905 - __main__ - INFO -   Operations     :    1 teams
+2026-01-06 17:42:53,905 - __main__ - INFO -   Product        :    2 teams
+2026-01-06 17:42:53,905 - __main__ - INFO -   Sales          :    3 teams
+2026-01-06 17:42:53,905 - __main__ - INFO -   Support        :    2 teams
+2026-01-06 17:42:53,905 - __main__ - INFO - 
+============================================================
+2026-01-06 17:42:53,906 - __main__ - INFO - GENERATION SUMMARY
+2026-01-06 17:42:53,906 - __main__ - INFO - ============================================================
+2026-01-06 17:42:53,906 - __main__ - INFO - Start time: 17:42:52
+2026-01-06 17:42:53,908 - __main__ - INFO - End time:   17:42:53
+2026-01-06 17:42:53,908 - __main__ - INFO - Duration:   0:00:01.330410
+2026-01-06 17:42:53,909 - __main__ - INFO - Database:   output/asana_simulation.sqlite
+2026-01-06 17:42:53,909 - __main__ - INFO - LLM Used:   Templates Only
+2026-01-06 17:42:53,909 - __main__ - INFO - 
+============================================================
+2026-01-06 17:42:53,909 - __main__ - INFO - SAMPLE QUERIES TO EXPLORE DATA
+2026-01-06 17:42:53,910 - __main__ - INFO - ============================================================
+2026-01-06 17:42:53,910 - __main__ - INFO - 1. All tasks in a project:
+2026-01-06 17:42:53,910 - __main__ - INFO -    SELECT t.name, u.name as assignee, t.due_date
+2026-01-06 17:42:53,910 - __main__ - INFO -    FROM tasks t LEFT JOIN users u ON t.assignee_id = u.id
+2026-01-06 17:42:53,910 - __main__ - INFO -    WHERE t.project_id = (SELECT id FROM projects LIMIT 1)
+2026-01-06 17:42:53,911 - __main__ - INFO - 
+2026-01-06 17:42:53,911 - __main__ - INFO - 2. Overdue tasks by team:
+2026-01-06 17:42:53,911 - __main__ - INFO -    SELECT t.name as team, COUNT(*) as overdue_tasks
+2026-01-06 17:42:53,911 - __main__ - INFO -    FROM teams t
+2026-01-06 17:42:53,911 - __main__ - INFO -    JOIN projects p ON t.id = p.team_id
+2026-01-06 17:42:53,911 - __main__ - INFO -    JOIN tasks tk ON p.id = tk.project_id
+2026-01-06 17:42:53,912 - __main__ - INFO -    WHERE tk.due_date < DATE('now') AND tk.completed = 0
+2026-01-06 17:42:53,912 - __main__ - INFO -    GROUP BY t.name
+2026-01-06 17:42:53,912 - __main__ - INFO - 
+2026-01-06 17:42:53,912 - __main__ - INFO - 3. User workload:
+2026-01-06 17:42:53,913 - __main__ - INFO -    SELECT u.name, COUNT(t.id) as task_count
+2026-01-06 17:42:53,913 - __main__ - INFO -    FROM users u
+2026-01-06 17:42:53,913 - __main__ - INFO -    LEFT JOIN tasks t ON u.id = t.assignee_id
+2026-01-06 17:42:53,913 - __main__ - INFO -    GROUP BY u.name
+2026-01-06 17:42:53,914 - __main__ - INFO -    ORDER BY task_count DESC
+2026-01-06 17:42:53,914 - __main__ - INFO - 
+2026-01-06 17:42:53,914 - __main__ - INFO - Explore with: sqlite3 output/asana_simulation.sqlite
+2026-01-06 17:42:53,914 - __main__ - INFO - 
+============================================================
+2026-01-06 17:42:53,914 - __main__ - INFO - >>> ASANA SIMULATION GENERATION COMPLETE!
+2026-01-06 17:42:53,915 - __main__ - INFO - ============================================================
+2026-01-06 17:43:35,858 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 17:43:35,859 - __main__ - INFO - ============================================================
+2026-01-06 17:43:35,859 - __main__ - INFO - Configuration:
+2026-01-06 17:43:35,860 - __main__ - INFO -   total_users: 200
+2026-01-06 17:43:35,860 - __main__ - INFO -   total_teams: 30
+2026-01-06 17:43:35,860 - __main__ - INFO -   total_projects: 50
+2026-01-06 17:43:35,860 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 17:43:35,860 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 17:43:35,860 - __main__ - INFO -   use_gemini: False
+2026-01-06 17:43:35,860 - __main__ - INFO -   gemini_model: gemini-1.5-flash
+2026-01-06 17:43:35,860 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 17:43:35,862 - __main__ - ERROR - Failed to initialize database: table organizations already exists
+2026-01-06 17:45:54,084 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 17:45:54,085 - __main__ - INFO - ============================================================
+2026-01-06 17:45:54,085 - __main__ - INFO - Configuration:
+2026-01-06 17:45:54,085 - __main__ - INFO -   total_users: 200
+2026-01-06 17:45:54,086 - __main__ - INFO -   total_teams: 30
+2026-01-06 17:45:54,086 - __main__ - INFO -   total_projects: 50
+2026-01-06 17:45:54,086 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 17:45:54,086 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 17:45:54,086 - __main__ - INFO -   use_gemini: False
+2026-01-06 17:45:54,086 - __main__ - INFO -   gemini_model: gemini-1.5-flash
+2026-01-06 17:45:54,086 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 17:45:54,088 - __main__ - ERROR - Failed to initialize database: table organizations already exists
+2026-01-06 17:52:15,175 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 17:52:15,176 - __main__ - INFO - ============================================================
+2026-01-06 17:52:15,177 - __main__ - INFO - Configuration:
+2026-01-06 17:52:15,177 - __main__ - INFO -   total_users: 5000
+2026-01-06 17:52:15,177 - __main__ - INFO -   total_teams: 80
+2026-01-06 17:52:15,177 - __main__ - INFO -   total_projects: 400
+2026-01-06 17:52:15,177 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 17:52:15,179 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 17:52:15,180 - __main__ - INFO -   use_gemini: False
+2026-01-06 17:52:15,180 - __main__ - INFO -   gemini_model: none
+2026-01-06 17:52:15,180 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 17:52:15,180 - __main__ - ERROR - Failed to initialize database: Database.initialize() got an unexpected keyword argument 'clear_existing'
+2026-01-06 17:56:36,899 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 17:56:36,899 - __main__ - INFO - ============================================================
+2026-01-06 17:56:36,900 - __main__ - INFO - Configuration:
+2026-01-06 17:56:36,900 - __main__ - INFO -   total_users: 5000
+2026-01-06 17:56:36,900 - __main__ - INFO -   total_teams: 80
+2026-01-06 17:56:36,901 - __main__ - INFO -   total_projects: 400
+2026-01-06 17:56:36,901 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 17:56:36,901 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 17:56:36,901 - __main__ - INFO -   use_gemini: False
+2026-01-06 17:56:36,902 - __main__ - INFO -   gemini_model: none
+2026-01-06 17:56:36,902 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 17:56:37,013 - __main__ - INFO - Database schema created successfully
+2026-01-06 17:56:37,013 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 17:56:37,022 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 17:56:37,023 - __main__ - INFO - 
+Step 3: Generating 5000 users...
+2026-01-06 17:56:37,881 - __main__ - INFO - Generated 5000 users
+2026-01-06 17:56:37,882 - __main__ - INFO - 
+Step 4: Generating 80 teams...
+2026-01-06 17:56:37,894 - __main__ - INFO - Generated 80 teams
+2026-01-06 17:56:37,894 - __main__ - INFO - 
+Step 5: Assigning team memberships...
+2026-01-06 17:56:37,922 - __main__ - INFO - Created 555 team memberships
+2026-01-06 17:56:37,924 - __main__ - INFO - 
+Step 6: Generating 400 projects...
+2026-01-06 17:56:38,367 - __main__ - INFO - Generated 400 projects
+2026-01-06 17:56:38,368 - __main__ - INFO - 
+Step 7: Generating project sections...
+2026-01-06 17:56:38,521 - __main__ - INFO - Generated 1588 sections
+2026-01-06 17:56:38,522 - __main__ - INFO - 
+Step 8: Generating tasks...
+2026-01-06 17:56:38,522 - __main__ - INFO -    Using template-based generation (Gemini disabled)
+2026-01-06 17:56:45,472 - __main__ - INFO - Generated 8070 tasks
+2026-01-06 17:56:45,472 - __main__ - INFO - 
+Sample generated tasks:
+2026-01-06 17:56:45,473 - __main__ - INFO -   1. social media posts for Black Friday Sale
+2026-01-06 17:56:45,473 - __main__ - INFO -      Desc: Follow the standard procedure.
+2026-01-06 17:56:45,473 - __main__ - INFO -   2. API Gateway - Optimize - for better user experience
+2026-01-06 17:56:45,473 - __main__ - INFO -      Desc: Complete this task as per requirements.
+2026-01-06 17:56:45,473 - __main__ - INFO -   3. Review documentation
+2026-01-06 17:56:45,473 - __main__ - INFO -      Desc: ## Objective
+Implement review documentation to improve system performance and us...
+2026-01-06 17:56:45,474 - __main__ - INFO -   4. [API Gateway] Implement: with security enhancements
+2026-01-06 17:56:45,474 - __main__ - INFO -      Desc: Coordinate with team members as needed.
+2026-01-06 17:56:45,474 - __main__ - INFO -   5. Bug: memory leak in API Gateway
+2026-01-06 17:56:45,474 - __main__ - INFO -      Desc: ## Purpose
+Address bug: memory leak in api gateway to enhance user experience an...
+2026-01-06 17:56:45,474 - __main__ - INFO - 
+Step 9: Generating subtasks...
+2026-01-06 17:56:45,602 - __main__ - INFO - Generated 162 subtasks
+2026-01-06 17:56:45,603 - __main__ - INFO - 
+Step 10: Generating comments...
+2026-01-06 17:56:45,654 - __main__ - INFO - Generated 1000 comments
+2026-01-06 17:56:45,654 - __main__ - INFO - 
+Sample comments:
+2026-01-06 17:56:45,655 - __main__ - INFO -   1. On 'Authentication Service - Migra...': Please add more comments for complex logic.
+2026-01-06 17:56:45,655 - __main__ - INFO -   2. On 'Database Layer - Upgrade - for...': Per our conversation, I've updated the acceptance criteria.
+2026-01-06 17:56:45,656 - __main__ - INFO -   3. On 'Optimize Backend API for enter...': Following up on our chat about the implementation approach.
+2026-01-06 17:56:45,656 - __main__ - INFO - 
+Step 11: Generating tags...
+2026-01-06 17:56:45,684 - __main__ - ERROR - Failed to generate tags: 'created_at'
+2026-01-06 17:56:45,686 - __main__ - INFO - 
+Step 12: Generating custom fields...
+2026-01-06 17:56:45,693 - __main__ - INFO - Generated 64 custom field definitions
+2026-01-06 17:56:45,712 - __main__ - INFO - Generated 160 custom field values
+2026-01-06 17:56:45,712 - __main__ - INFO - 
+Step 13: Validating database...
+2026-01-06 17:56:45,762 - __main__ - WARNING - Found 14 validation issues:
+2026-01-06 17:56:45,762 - __main__ - WARNING -   * Comment 8f6c9a8b19c24bdb90787546051ba886 created before task bec3779b548b4792a1cf96cf8095a033
+2026-01-06 17:56:45,762 - __main__ - WARNING -   * Comment 6fcad6a88fea45388ca445c17e05b6c7 created before task 246bc8384cfe4a66b0d73c5fb8a2d58f
+2026-01-06 17:56:45,763 - __main__ - WARNING -   * Comment fb07cc08c9334772b792d70a39b24bc3 created before task 42f52527a3c34517ba8a98d42a5074c7
+2026-01-06 17:56:45,763 - __main__ - WARNING -   * Comment f76dee06d6e4480eaa0bd12abef2bf30 created before task d6680dc9b20a48d080dd7bee4909797b
+2026-01-06 17:56:45,764 - __main__ - WARNING -   * Comment 4f3b92ff32934724887686481b0a1c7a created before task b1f7a378288d41ff832da8c2948e0aee
+2026-01-06 17:56:45,764 - __main__ - WARNING -   * Comment 26e3936f63ad4a1d978f43ff4ce475f1 created before task d6680dc9b20a48d080dd7bee4909797b
+2026-01-06 17:56:45,764 - __main__ - WARNING -   * Comment c0efafa384684ceab5a6025e463a7973 created before task c27a01d08adb4e71a752bd3303ede362
+2026-01-06 17:56:45,764 - __main__ - WARNING -   * Comment a89d012b20aa4842a0b17438ceb290dd created before task cd6d3a8d4a09465d939f1fbeb5e5123d
+2026-01-06 17:56:45,764 - __main__ - WARNING -   * Comment c12cb1fb0a35473fb6c1b93c214fb82d created before task 15a71f1f15e14a3198a206873a5f3af2
+2026-01-06 17:56:45,764 - __main__ - WARNING -   * Comment efe1cec2bdd54ee2b275b8311775b93a created before task 15a71f1f15e14a3198a206873a5f3af2
+2026-01-06 17:56:45,765 - __main__ - WARNING -   ... and 4 more issues
+2026-01-06 17:56:45,765 - __main__ - INFO - 
+============================================================
+2026-01-06 17:56:45,765 - __main__ - INFO - GENERATION COMPLETE - FINAL STATISTICS
+2026-01-06 17:56:45,765 - __main__ - INFO - ============================================================
+2026-01-06 17:56:45,815 - __main__ - INFO - Total Users                   : 5000
+2026-01-06 17:56:45,815 - __main__ - INFO - Active Users                  : 4768
+2026-01-06 17:56:45,815 - __main__ - INFO - Total Teams                   : 80
+2026-01-06 17:56:45,816 - __main__ - INFO - Total Projects                : 400
+2026-01-06 17:56:45,816 - __main__ - INFO - Active Projects               : 253
+2026-01-06 17:56:45,818 - __main__ - INFO - Total Tasks                   : 8232
+2026-01-06 17:56:45,819 - __main__ - INFO - Completed Tasks               : 6884
+2026-01-06 17:56:45,819 - __main__ - INFO - Tasks with Due Dates          : 7501
+2026-01-06 17:56:45,819 - __main__ - INFO - Overdue Tasks                 : 653
+2026-01-06 17:56:45,819 - __main__ - INFO - Unassigned Tasks              : 1234
+2026-01-06 17:56:45,820 - __main__ - INFO - Total Comments                : 1000
+2026-01-06 17:56:45,820 - __main__ - INFO - Total Tags                    : 50
+2026-01-06 17:56:45,821 - __main__ - INFO - Tasks with Subtasks           : 50
+2026-01-06 17:56:45,821 - __main__ - INFO - Total Sections                : 1588
+2026-01-06 17:56:45,822 - __main__ - INFO - Total Custom Fields           : 64
+2026-01-06 17:56:45,822 - __main__ - INFO - Total Custom Field Values     : 160
+2026-01-06 17:56:45,822 - __main__ - INFO - Avg Tasks per Project         : 20.6
+2026-01-06 17:56:45,823 - __main__ - INFO - Completion Rate               : 83.6%
+2026-01-06 17:56:45,823 - __main__ - INFO - Overdue Rate                  : 8.7%
+2026-01-06 17:56:45,823 - __main__ - INFO - 
+============================================================
+2026-01-06 17:56:45,823 - __main__ - INFO - DATA DISTRIBUTIONS
+2026-01-06 17:56:45,823 - __main__ - INFO - ============================================================
+2026-01-06 17:56:45,837 - __main__ - INFO - 
+Task Priority Distribution:
+2026-01-06 17:56:45,838 - __main__ - INFO -   URGENT :  418 tasks (  5.1%)
+2026-01-06 17:56:45,838 - __main__ - INFO -   HIGH   : 1233 tasks ( 15.0%)
+2026-01-06 17:56:45,839 - __main__ - INFO -   MEDIUM : 4035 tasks ( 49.0%)
+2026-01-06 17:56:45,839 - __main__ - INFO -   LOW    : 2546 tasks ( 30.9%)
+2026-01-06 17:56:45,845 - __main__ - INFO - 
+Due Date Distribution:
+2026-01-06 17:56:45,845 - __main__ - INFO -   Due this month      :  353 tasks (  4.3%)
+2026-01-06 17:56:45,846 - __main__ - INFO -   Due this week       :  530 tasks (  6.4%)
+2026-01-06 17:56:45,846 - __main__ - INFO -   Future due date     :  118 tasks (  1.4%)
+2026-01-06 17:56:45,846 - __main__ - INFO -   No due date         :  731 tasks (  8.9%)
+2026-01-06 17:56:45,847 - __main__ - INFO -   Overdue             : 6500 tasks ( 79.0%)
+2026-01-06 17:56:45,848 - __main__ - INFO - 
+Project Type Distribution:
+2026-01-06 17:56:45,849 - __main__ - INFO -   Adhoc          :   19 projects (  4.8%)
+2026-01-06 17:56:45,849 - __main__ - INFO -   Bug Tracking   :   74 projects ( 18.5%)
+2026-01-06 17:56:45,849 - __main__ - INFO -   Campaign       :   58 projects ( 14.5%)
+2026-01-06 17:56:45,851 - __main__ - INFO -   Okr            :   36 projects (  9.0%)
+2026-01-06 17:56:45,853 - __main__ - INFO -   Ongoing        :   69 projects ( 17.2%)
+2026-01-06 17:56:45,854 - __main__ - INFO -   Sprint         :  144 projects ( 36.0%)
+2026-01-06 17:56:45,855 - __main__ - INFO - 
+Team Department Distribution:
+2026-01-06 17:56:45,856 - __main__ - INFO -   Design         :   13 teams
+2026-01-06 17:56:45,856 - __main__ - INFO -   Engineering    :   23 teams
+2026-01-06 17:56:45,856 - __main__ - INFO -   Marketing      :   20 teams
+2026-01-06 17:56:45,856 - __main__ - INFO -   Operations     :    5 teams
+2026-01-06 17:56:45,856 - __main__ - INFO -   Product        :    6 teams
+2026-01-06 17:56:45,857 - __main__ - INFO -   Sales          :    9 teams
+2026-01-06 17:56:45,857 - __main__ - INFO -   Support        :    4 teams
+2026-01-06 17:56:45,857 - __main__ - INFO - 
+============================================================
+2026-01-06 17:56:45,857 - __main__ - INFO - GENERATION SUMMARY
+2026-01-06 17:56:45,857 - __main__ - INFO - ============================================================
+2026-01-06 17:56:45,858 - __main__ - INFO - Start time: 17:56:36
+2026-01-06 17:56:45,858 - __main__ - INFO - End time:   17:56:45
+2026-01-06 17:56:45,859 - __main__ - INFO - Duration:   0:00:08.957467
+2026-01-06 17:56:45,859 - __main__ - INFO - Database:   output/asana_simulation.sqlite
+2026-01-06 17:56:45,859 - __main__ - INFO - Scale:      5000 users, 400 projects
+2026-01-06 17:56:45,860 - __main__ - INFO - 
+============================================================
+2026-01-06 17:56:45,860 - __main__ - INFO - SAMPLE QUERIES TO EXPLORE DATA
+2026-01-06 17:56:45,860 - __main__ - INFO - ============================================================
+2026-01-06 17:56:45,860 - __main__ - INFO - 1. All tasks in a project:
+2026-01-06 17:56:45,860 - __main__ - INFO -    SELECT t.name, u.name as assignee, t.due_date
+2026-01-06 17:56:45,860 - __main__ - INFO -    FROM tasks t LEFT JOIN users u ON t.assignee_id = u.id
+2026-01-06 17:56:45,861 - __main__ - INFO -    WHERE t.project_id = (SELECT id FROM projects LIMIT 1)
+2026-01-06 17:56:45,861 - __main__ - INFO - 
+2026-01-06 17:56:45,861 - __main__ - INFO - 2. Overdue tasks by team:
+2026-01-06 17:56:45,861 - __main__ - INFO -    SELECT t.name as team, COUNT(*) as overdue_tasks
+2026-01-06 17:56:45,862 - __main__ - INFO -    FROM teams t
+2026-01-06 17:56:45,862 - __main__ - INFO -    JOIN projects p ON t.id = p.team_id
+2026-01-06 17:56:45,862 - __main__ - INFO -    JOIN tasks tk ON p.id = tk.project_id
+2026-01-06 17:56:45,862 - __main__ - INFO -    WHERE tk.due_date < DATE('now') AND tk.completed = 0
+2026-01-06 17:56:45,862 - __main__ - INFO -    GROUP BY t.name
+2026-01-06 17:56:45,862 - __main__ - INFO - 
+2026-01-06 17:56:45,863 - __main__ - INFO - 3. User workload:
+2026-01-06 17:56:45,863 - __main__ - INFO -    SELECT u.name, COUNT(t.id) as task_count
+2026-01-06 17:56:45,863 - __main__ - INFO -    FROM users u
+2026-01-06 17:56:45,864 - __main__ - INFO -    LEFT JOIN tasks t ON u.id = t.assignee_id
+2026-01-06 17:56:45,864 - __main__ - INFO -    GROUP BY u.name
+2026-01-06 17:56:45,864 - __main__ - INFO -    ORDER BY task_count DESC
+2026-01-06 17:56:45,864 - __main__ - INFO - 
+2026-01-06 17:56:45,865 - __main__ - INFO - Explore with: sqlite3 output/asana_simulation.sqlite
+2026-01-06 17:56:45,865 - __main__ - INFO - 
+============================================================
+2026-01-06 17:56:45,865 - __main__ - INFO - >>> ASANA SIMULATION GENERATION COMPLETE!
+2026-01-06 17:56:45,865 - __main__ - INFO - ============================================================
+2026-01-06 18:09:57,368 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 18:09:57,369 - __main__ - INFO - ============================================================
+2026-01-06 18:09:57,369 - __main__ - INFO - Configuration:
+2026-01-06 18:09:57,370 - __main__ - INFO -   total_users: 5000
+2026-01-06 18:09:57,370 - __main__ - INFO -   total_teams: 80
+2026-01-06 18:09:57,370 - __main__ - INFO -   total_projects: 400
+2026-01-06 18:09:57,370 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 18:09:57,371 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 18:09:57,371 - __main__ - INFO -   use_gemini: False
+2026-01-06 18:09:57,371 - __main__ - INFO -   gemini_model: none
+2026-01-06 18:09:57,371 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 18:09:57,456 - __main__ - INFO - Database schema created successfully
+2026-01-06 18:09:57,456 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 18:09:57,462 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 18:09:57,462 - __main__ - INFO - 
+Step 3: Generating 5000 users...
+2026-01-06 18:09:58,404 - __main__ - INFO - Generated 5000 users
+2026-01-06 18:09:58,405 - __main__ - INFO - 
+Step 4: Generating 80 teams...
+2026-01-06 18:09:58,416 - __main__ - INFO - Generated 80 teams
+2026-01-06 18:09:58,416 - __main__ - INFO - 
+Step 5: Assigning team memberships...
+2026-01-06 18:09:58,445 - __main__ - INFO - Created 538 team memberships
+2026-01-06 18:09:58,445 - __main__ - INFO - 
+Step 6: Generating 400 projects...
+2026-01-06 18:09:58,990 - __main__ - INFO - Generated 400 projects
+2026-01-06 18:09:58,991 - __main__ - INFO - 
+Step 7: Generating project sections...
+2026-01-06 18:09:59,136 - __main__ - INFO - Generated 1586 sections
+2026-01-06 18:09:59,137 - __main__ - INFO - 
+Step 8: Generating tasks...
+2026-01-06 18:09:59,137 - __main__ - INFO -    Using template-based generation (Gemini disabled)
+2026-01-06 18:09:59,156 - __main__ - ERROR - Failed to generate tasks: 'TaskGenerator' object has no attribute '_get_team_members'
+2026-01-06 18:15:01,014 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 18:15:01,015 - __main__ - INFO - ============================================================
+2026-01-06 18:15:01,015 - __main__ - INFO - Configuration:
+2026-01-06 18:15:01,016 - __main__ - INFO -   total_users: 5000
+2026-01-06 18:15:01,016 - __main__ - INFO -   total_teams: 80
+2026-01-06 18:15:01,016 - __main__ - INFO -   total_projects: 400
+2026-01-06 18:15:01,016 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 18:15:01,016 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 18:15:01,017 - __main__ - INFO -   use_gemini: False
+2026-01-06 18:15:01,017 - __main__ - INFO -   gemini_model: none
+2026-01-06 18:15:01,017 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 18:15:01,078 - __main__ - INFO - Database schema created successfully
+2026-01-06 18:15:01,078 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 18:15:01,084 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 18:15:01,084 - __main__ - INFO - 
+Step 3: Generating 5000 users...
+2026-01-06 18:15:01,745 - __main__ - INFO - Generated 5000 users
+2026-01-06 18:15:01,746 - __main__ - INFO - 
+Step 4: Generating 80 teams...
+2026-01-06 18:15:01,755 - __main__ - INFO - Generated 80 teams
+2026-01-06 18:15:01,755 - __main__ - INFO - 
+Step 5: Assigning team memberships...
+2026-01-06 18:15:01,776 - __main__ - INFO - Created 544 team memberships
+2026-01-06 18:15:01,776 - __main__ - INFO - 
+Step 6: Generating 400 projects...
+2026-01-06 18:15:02,141 - __main__ - INFO - Generated 400 projects
+2026-01-06 18:15:02,141 - __main__ - INFO - 
+Step 7: Generating project sections...
+2026-01-06 18:15:02,240 - __main__ - INFO - Generated 1586 sections
+2026-01-06 18:15:02,241 - __main__ - INFO - 
+Step 8: Generating tasks...
+2026-01-06 18:15:02,241 - __main__ - INFO -    Using template-based generation (Gemini disabled)
+2026-01-06 18:15:08,482 - __main__ - INFO - Generated 7895 tasks
+2026-01-06 18:15:08,482 - __main__ - INFO - 
+Sample generated tasks:
+2026-01-06 18:15:08,482 - __main__ - INFO -   1. Sprint 5: Deliverable review
+2026-01-06 18:15:08,483 - __main__ - INFO -      Desc: ## Task: Sprint 5: Deliverable review
+
+**Objective**:
+Strengthen security postur...
+2026-01-06 18:15:08,483 - __main__ - INFO -   2. HIGH: Fix security vulnerability in Database Layer
+2026-01-06 18:15:08,483 - __main__ - INFO -      Desc: ## Bug Report: security vulnerability in Database Layer
+
+**Severity**: P1 - High...
+2026-01-06 18:15:08,483 - __main__ - INFO -   3. Checkout API: Implement with 5 point estimate
+2026-01-06 18:15:08,483 - __main__ - INFO -      Desc: ## Task: Checkout API: Implement with 5 point estimate
+
+**Objective**:
+Increase ...
+2026-01-06 18:15:08,483 - __main__ - INFO -   4. API Gateway - Backup - security enhancement
+2026-01-06 18:15:08,483 - __main__ - INFO -      Desc: ### API Gateway - Backup - security enhancement
+
+**Background**:
+This work suppo...
+2026-01-06 18:15:08,483 - __main__ - INFO -   5. Complete team metrics
+2026-01-06 18:15:08,483 - __main__ - INFO -      Desc: ### Complete team metrics
+
+**Background**:
+This work supports our customer commi...
+2026-01-06 18:15:08,484 - __main__ - INFO - 
+Step 9: Generating subtasks...
+2026-01-06 18:15:08,565 - __main__ - INFO - Generated 168 subtasks
+2026-01-06 18:15:08,566 - __main__ - INFO - 
+Step 10: Generating comments...
+2026-01-06 18:15:08,597 - __main__ - INFO - Generated 1000 comments
+2026-01-06 18:15:08,598 - __main__ - INFO - 
+Sample comments:
+2026-01-06 18:15:08,598 - __main__ - INFO -   1. On 'Sprint 2: Demo preparation...': Are there any existing examples I should look at?
+2026-01-06 18:15:08,598 - __main__ - INFO -   2. On 'Sprint 4: Deliverable review...': Do we have design specs I should reference?
+2026-01-06 18:15:08,598 - __main__ - INFO -   3. On 'Kubernetes Cluster: Test as pa...': Approved!
+2026-01-06 18:15:08,598 - __main__ - INFO - 
+Step 11: Generating tags...
+2026-01-06 18:15:08,611 - __main__ - ERROR - Failed to generate tags: 'created_at'
+2026-01-06 18:15:08,611 - __main__ - INFO - 
+Step 12: Generating custom fields...
+2026-01-06 18:15:08,616 - __main__ - INFO - Generated 74 custom field definitions
+2026-01-06 18:15:08,633 - __main__ - INFO - Generated 140 custom field values
+2026-01-06 18:15:08,634 - __main__ - INFO - 
+Step 13: Validating database...
+2026-01-06 18:15:08,685 - __main__ - WARNING - Found 10 validation issues:
+2026-01-06 18:15:08,686 - __main__ - WARNING -   * Comment 814630321b8b4f1da905f795a4e1c640 created before task 5e62dc58eb3949bd868588acc40dfdd3
+2026-01-06 18:15:08,686 - __main__ - WARNING -   * Comment 58bb6f2feda546ddb4d616db85f47e06 created before task 95d21b1f5acb44eab5591fff3deae813
+2026-01-06 18:15:08,686 - __main__ - WARNING -   * Comment 3f1cc77b8dc94f23a1850cb917e955c3 created before task cd81b42a2b2e43a0a423b0fea1dcf140
+2026-01-06 18:15:08,687 - __main__ - WARNING -   * Comment 30f00e618c27448a991821d97380057d created before task 5d5a2a3d99ad4293bd95e3048fa045a3
+2026-01-06 18:15:08,687 - __main__ - WARNING -   * Comment 08f6733fb56e48939ed1d19479e72511 created before task fcedc70afd6b4d259870bb4489d02867
+2026-01-06 18:15:08,687 - __main__ - WARNING -   * Comment 506610538ffd465ca5104fadad18232c created before task e7900f3dd0cf44c88e57342a52ba5362
+2026-01-06 18:15:08,687 - __main__ - WARNING -   * Due date distribution off for overdue: expected 5.0%, got 86.41944685600893%
+2026-01-06 18:15:08,687 - __main__ - WARNING -   * Due date distribution off for this_week: expected 25.0%, got 5.804291206746869%
+2026-01-06 18:15:08,687 - __main__ - WARNING -   * Due date distribution off for this_month: expected 40.0%, got 2.232419694902642%
+2026-01-06 18:15:08,687 - __main__ - WARNING -   * Due date distribution off for future: expected 20.0%, got 0.31005829095870024%
+2026-01-06 18:15:08,688 - __main__ - INFO - 
+============================================================
+2026-01-06 18:15:08,688 - __main__ - INFO - GENERATION COMPLETE - FINAL STATISTICS
+2026-01-06 18:15:08,688 - __main__ - INFO - ============================================================
+2026-01-06 18:15:08,747 - __main__ - INFO - Total Users                   : 5000
+2026-01-06 18:15:08,748 - __main__ - INFO - Active Users                  : 4744
+2026-01-06 18:15:08,748 - __main__ - INFO - Total Teams                   : 80
+2026-01-06 18:15:08,748 - __main__ - INFO - Total Projects                : 400
+2026-01-06 18:15:08,748 - __main__ - INFO - Active Projects               : 258
+2026-01-06 18:15:08,749 - __main__ - INFO - Total Tasks                   : 8063
+2026-01-06 18:15:08,749 - __main__ - INFO - Completed Tasks               : 3064
+2026-01-06 18:15:08,749 - __main__ - INFO - Tasks with Due Dates          : 7641
+2026-01-06 18:15:08,750 - __main__ - INFO - Overdue Tasks                 : 4695
+2026-01-06 18:15:08,750 - __main__ - INFO - Unassigned Tasks              : 1223
+2026-01-06 18:15:08,750 - __main__ - INFO - Total Comments                : 1000
+2026-01-06 18:15:08,751 - __main__ - INFO - Total Tags                    : 50
+2026-01-06 18:15:08,751 - __main__ - INFO - Tasks with Subtasks           : 50
+2026-01-06 18:15:08,751 - __main__ - INFO - Total Sections                : 1586
+2026-01-06 18:15:08,751 - __main__ - INFO - Total Custom Fields           : 74
+2026-01-06 18:15:08,751 - __main__ - INFO - Total Custom Field Values     : 140
+2026-01-06 18:15:08,752 - __main__ - INFO - Avg Tasks per Project         : 20.2
+2026-01-06 18:15:08,753 - __main__ - INFO - Completion Rate               : 38.0%
+2026-01-06 18:15:08,753 - __main__ - INFO - Overdue Rate                  : 61.4%
+2026-01-06 18:15:08,753 - __main__ - INFO - 
+============================================================
+2026-01-06 18:15:08,753 - __main__ - INFO - DATA DISTRIBUTIONS
+2026-01-06 18:15:08,753 - __main__ - INFO - ============================================================
+2026-01-06 18:15:08,763 - __main__ - INFO - 
+Task Priority Distribution:
+2026-01-06 18:15:08,764 - __main__ - INFO -   URGENT :  381 tasks (  4.7%)
+2026-01-06 18:15:08,764 - __main__ - INFO -   HIGH   : 1217 tasks ( 15.1%)
+2026-01-06 18:15:08,764 - __main__ - INFO -   MEDIUM : 4862 tasks ( 60.3%)
+2026-01-06 18:15:08,764 - __main__ - INFO -   LOW    : 1603 tasks ( 19.9%)
+2026-01-06 18:15:08,769 - __main__ - INFO - 
+Due Date Distribution:
+2026-01-06 18:15:08,770 - __main__ - INFO -   Due this month      :  180 tasks (  2.2%)
+2026-01-06 18:15:08,770 - __main__ - INFO -   Due this week       :  468 tasks (  5.8%)
+2026-01-06 18:15:08,770 - __main__ - INFO -   Future due date     :   25 tasks (  0.3%)
+2026-01-06 18:15:08,770 - __main__ - INFO -   No due date         :  422 tasks (  5.2%)
+2026-01-06 18:15:08,771 - __main__ - INFO -   Overdue             : 6968 tasks ( 86.4%)
+2026-01-06 18:15:08,773 - __main__ - INFO - 
+Project Type Distribution:
+2026-01-06 18:15:08,773 - __main__ - INFO -   Adhoc          :   23 projects (  5.8%)
+2026-01-06 18:15:08,773 - __main__ - INFO -   Bug Tracking   :   74 projects ( 18.5%)
+2026-01-06 18:15:08,774 - __main__ - INFO -   Campaign       :   59 projects ( 14.8%)
+2026-01-06 18:15:08,774 - __main__ - INFO -   Okr            :   41 projects ( 10.2%)
+2026-01-06 18:15:08,774 - __main__ - INFO -   Ongoing        :   46 projects ( 11.5%)
+2026-01-06 18:15:08,774 - __main__ - INFO -   Sprint         :  157 projects ( 39.2%)
+2026-01-06 18:15:08,776 - __main__ - INFO - 
+Team Department Distribution:
+2026-01-06 18:15:08,776 - __main__ - INFO -   Design         :   14 teams
+2026-01-06 18:15:08,776 - __main__ - INFO -   Engineering    :   25 teams
+2026-01-06 18:15:08,776 - __main__ - INFO -   Marketing      :   15 teams
+2026-01-06 18:15:08,776 - __main__ - INFO -   Operations     :    4 teams
+2026-01-06 18:15:08,776 - __main__ - INFO -   Product        :   12 teams
+2026-01-06 18:15:08,777 - __main__ - INFO -   Sales          :    7 teams
+2026-01-06 18:15:08,777 - __main__ - INFO -   Support        :    3 teams
+2026-01-06 18:15:08,777 - __main__ - INFO - 
+============================================================
+2026-01-06 18:15:08,777 - __main__ - INFO - GENERATION SUMMARY
+2026-01-06 18:15:08,777 - __main__ - INFO - ============================================================
+2026-01-06 18:15:08,777 - __main__ - INFO - Start time: 18:15:01
+2026-01-06 18:15:08,777 - __main__ - INFO - End time:   18:15:08
+2026-01-06 18:15:08,778 - __main__ - INFO - Duration:   0:00:07.762135
+2026-01-06 18:15:08,778 - __main__ - INFO - Database:   output/asana_simulation.sqlite
+2026-01-06 18:15:08,778 - __main__ - INFO - Scale:      5000 users, 400 projects
+2026-01-06 18:15:08,778 - __main__ - INFO - 
+============================================================
+2026-01-06 18:15:08,778 - __main__ - INFO - SAMPLE QUERIES TO EXPLORE DATA
+2026-01-06 18:15:08,778 - __main__ - INFO - ============================================================
+2026-01-06 18:15:08,778 - __main__ - INFO - 1. All tasks in a project:
+2026-01-06 18:15:08,778 - __main__ - INFO -    SELECT t.name, u.name as assignee, t.due_date
+2026-01-06 18:15:08,778 - __main__ - INFO -    FROM tasks t LEFT JOIN users u ON t.assignee_id = u.id
+2026-01-06 18:15:08,778 - __main__ - INFO -    WHERE t.project_id = (SELECT id FROM projects LIMIT 1)
+2026-01-06 18:15:08,778 - __main__ - INFO - 
+2026-01-06 18:15:08,778 - __main__ - INFO - 2. Overdue tasks by team:
+2026-01-06 18:15:08,778 - __main__ - INFO -    SELECT t.name as team, COUNT(*) as overdue_tasks
+2026-01-06 18:15:08,780 - __main__ - INFO -    FROM teams t
+2026-01-06 18:15:08,780 - __main__ - INFO -    JOIN projects p ON t.id = p.team_id
+2026-01-06 18:15:08,780 - __main__ - INFO -    JOIN tasks tk ON p.id = tk.project_id
+2026-01-06 18:15:08,780 - __main__ - INFO -    WHERE tk.due_date < DATE('now') AND tk.completed = 0
+2026-01-06 18:15:08,780 - __main__ - INFO -    GROUP BY t.name
+2026-01-06 18:15:08,780 - __main__ - INFO - 
+2026-01-06 18:15:08,780 - __main__ - INFO - 3. User workload:
+2026-01-06 18:15:08,780 - __main__ - INFO -    SELECT u.name, COUNT(t.id) as task_count
+2026-01-06 18:15:08,781 - __main__ - INFO -    FROM users u
+2026-01-06 18:15:08,781 - __main__ - INFO -    LEFT JOIN tasks t ON u.id = t.assignee_id
+2026-01-06 18:15:08,781 - __main__ - INFO -    GROUP BY u.name
+2026-01-06 18:15:08,781 - __main__ - INFO -    ORDER BY task_count DESC
+2026-01-06 18:15:08,781 - __main__ - INFO - 
+2026-01-06 18:15:08,781 - __main__ - INFO - Explore with: sqlite3 output/asana_simulation.sqlite
+2026-01-06 18:15:08,782 - __main__ - INFO - 
+============================================================
+2026-01-06 18:15:08,782 - __main__ - INFO - >>> ASANA SIMULATION GENERATION COMPLETE!
+2026-01-06 18:15:08,782 - __main__ - INFO - ============================================================
+2026-01-06 18:20:20,280 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 18:20:20,280 - __main__ - INFO - ============================================================
+2026-01-06 18:20:20,280 - __main__ - INFO - Configuration:
+2026-01-06 18:20:20,280 - __main__ - INFO -   total_users: 5000
+2026-01-06 18:20:20,280 - __main__ - INFO -   total_teams: 80
+2026-01-06 18:20:20,281 - __main__ - INFO -   total_projects: 400
+2026-01-06 18:20:20,281 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 18:20:20,281 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 18:20:20,281 - __main__ - INFO -   use_gemini: False
+2026-01-06 18:20:20,281 - __main__ - INFO -   gemini_model: none
+2026-01-06 18:20:20,281 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 18:20:20,336 - __main__ - INFO - Database schema created successfully
+2026-01-06 18:20:20,336 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 18:20:20,340 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 18:20:20,340 - __main__ - INFO - 
+Step 3: Generating 5000 users...
+2026-01-06 18:20:21,141 - __main__ - INFO - Generated 5000 users
+2026-01-06 18:20:21,141 - __main__ - INFO - 
+Step 4: Generating 80 teams...
+2026-01-06 18:20:21,149 - __main__ - INFO - Generated 80 teams
+2026-01-06 18:20:21,149 - __main__ - INFO - 
+Step 5: Assigning team memberships...
+2026-01-06 18:20:21,171 - __main__ - INFO - Created 554 team memberships
+2026-01-06 18:20:21,171 - __main__ - INFO - 
+Step 6: Generating 400 projects...
+2026-01-06 18:20:21,505 - __main__ - INFO - Generated 400 projects
+2026-01-06 18:20:21,505 - __main__ - INFO - 
+Step 7: Generating project sections...
+2026-01-06 18:20:21,612 - __main__ - INFO - Generated 1594 sections
+2026-01-06 18:20:21,612 - __main__ - INFO - 
+Step 8: Generating tasks...
+2026-01-06 18:20:21,612 - __main__ - INFO -    Using template-based generation (Gemini disabled)
+2026-01-06 18:20:28,488 - __main__ - INFO - Generated 7896 tasks
+2026-01-06 18:20:28,488 - __main__ - INFO - 
+Sample generated tasks:
+2026-01-06 18:20:28,488 - __main__ - INFO -   1. Analytics Dashboard Redesign: Create customer testimonial
+2026-01-06 18:20:28,489 - __main__ - INFO -      Desc: ### Analytics Dashboard Redesign: Create customer testimonial
+
+**Background**:
+T...
+2026-01-06 18:20:28,489 - __main__ - INFO -   2. Real-time Chat - Migrate - scalability upgrade
+2026-01-06 18:20:28,489 - __main__ - INFO -      Desc: ### Real-time Chat - Migrate - scalability upgrade
+
+**Background**:
+This work su...
+2026-01-06 18:20:28,490 - __main__ - INFO -   3. Authentication Service - Update - OAuth 2.0 for enterprise SSO
+2026-01-06 18:20:28,490 - __main__ - INFO -      Desc: ## Task: Authentication Service - Update - OAuth 2.0 for enterprise SSO
+
+**Objec...
+2026-01-06 18:20:28,490 - __main__ - INFO -   4. Mobile App (iOS) - Refactor - scalability upgrade
+2026-01-06 18:20:28,490 - __main__ - INFO -      Desc: ### Mobile App (iOS) - Refactor - scalability upgrade
+
+**Background**:
+This work...
+2026-01-06 18:20:28,491 - __main__ - INFO -   5. Database Layer - Document - query optimization for reports
+2026-01-06 18:20:28,491 - __main__ - INFO -      Desc: ### Database Layer - Document - query optimization for reports
+
+**Background**:
+...
+2026-01-06 18:20:28,491 - __main__ - INFO - 
+Step 9: Generating subtasks...
+2026-01-06 18:20:28,571 - __main__ - INFO - Generated 145 subtasks
+2026-01-06 18:20:28,571 - __main__ - INFO - 
+Step 10: Generating comments...
+2026-01-06 18:20:28,604 - __main__ - INFO - Generated 1000 comments
+2026-01-06 18:20:28,605 - __main__ - INFO - 
+Sample comments:
+2026-01-06 18:20:28,605 - __main__ - INFO -   1. On 'Sprint 9: Deliverable review...': Are there any existing examples I should look at?
+2026-01-06 18:20:28,605 - __main__ - INFO -   2. On 'Holiday Season Promo: Create e...': Working on this now.
+2026-01-06 18:20:28,605 - __main__ - INFO -   3. On 'MEDIUM: Fix dependency conflic...': Started implementation.
+2026-01-06 18:20:28,605 - __main__ - INFO - 
+Step 11: Generating tags...
+2026-01-06 18:20:28,624 - __main__ - ERROR - Failed to generate tags: table task_tags has no column named id
+2026-01-06 18:20:28,624 - __main__ - INFO - 
+Step 12: Generating custom fields...
+2026-01-06 18:20:28,630 - __main__ - INFO - Generated 72 custom field definitions
+2026-01-06 18:20:28,646 - __main__ - INFO - Generated 143 custom field values
+2026-01-06 18:20:28,647 - __main__ - INFO - 
+Step 13: Validating database...
+2026-01-06 18:20:28,694 - __main__ - WARNING - Found 17 validation issues:
+2026-01-06 18:20:28,695 - __main__ - WARNING -   * Comment ce65714de9a948ee82eec1bb0326401d created before task 569002cedeef47518db196d002436251
+2026-01-06 18:20:28,695 - __main__ - WARNING -   * Comment a79ee3ce21d4466f8270977ef563c834 created before task 8c75ea22b60846a3827039b48c849eef
+2026-01-06 18:20:28,695 - __main__ - WARNING -   * Comment 9c2228a5acaa4386a239f1ad50bc3085 created before task 569002cedeef47518db196d002436251
+2026-01-06 18:20:28,695 - __main__ - WARNING -   * Comment 1382935af53f494ab4437eb030d43147 created before task c1033ce487eb494ab1ef84781e331723
+2026-01-06 18:20:28,695 - __main__ - WARNING -   * Comment a007f7fdb95e41f5b879cf4ecf47b9b1 created before task 9911df01796643358e1da752db871fc6
+2026-01-06 18:20:28,696 - __main__ - WARNING -   * Comment 0b26090096d54849898d77a61b830bae created before task 4ba9e915a1c546dea6e5c26bc4411801
+2026-01-06 18:20:28,696 - __main__ - WARNING -   * Comment 6799f9c6f9ed4c198c3f61a6918475c8 created before task b192c9612a484ef4b5d2ca0f27d5d375
+2026-01-06 18:20:28,696 - __main__ - WARNING -   * Comment 6b9c0527a4f84af9b4a2a046d1ff81a5 created before task 7935482e6dd84fa3a3127786bf869283
+2026-01-06 18:20:28,696 - __main__ - WARNING -   * Comment e9b953d945b14a1ea5f78a993fc94f6d created before task f34e08e465cd4ab49a34b769699af6b9
+2026-01-06 18:20:28,696 - __main__ - WARNING -   * Comment a9e4c78974944e8daaa2ecc380a6fc65 created before task 5beb6f011be24f6d9c32b6371be64413
+2026-01-06 18:20:28,696 - __main__ - WARNING -   ... and 7 more issues
+2026-01-06 18:20:28,696 - __main__ - INFO - 
+============================================================
+2026-01-06 18:20:28,697 - __main__ - INFO - GENERATION COMPLETE - FINAL STATISTICS
+2026-01-06 18:20:28,697 - __main__ - INFO - ============================================================
+2026-01-06 18:20:28,723 - __main__ - INFO - Total Users                   : 5000
+2026-01-06 18:20:28,723 - __main__ - INFO - Active Users                  : 4742
+2026-01-06 18:20:28,723 - __main__ - INFO - Total Teams                   : 80
+2026-01-06 18:20:28,723 - __main__ - INFO - Total Projects                : 400
+2026-01-06 18:20:28,723 - __main__ - INFO - Active Projects               : 252
+2026-01-06 18:20:28,724 - __main__ - INFO - Total Tasks                   : 8041
+2026-01-06 18:20:28,724 - __main__ - INFO - Completed Tasks               : 6285
+2026-01-06 18:20:28,724 - __main__ - INFO - Tasks with Due Dates          : 7686
+2026-01-06 18:20:28,724 - __main__ - INFO - Overdue Tasks                 : 133
+2026-01-06 18:20:28,724 - __main__ - INFO - Unassigned Tasks              : 1254
+2026-01-06 18:20:28,724 - __main__ - INFO - Total Comments                : 1000
+2026-01-06 18:20:28,724 - __main__ - INFO - Total Tags                    : 50
+2026-01-06 18:20:28,725 - __main__ - INFO - Tasks with Subtasks           : 50
+2026-01-06 18:20:28,725 - __main__ - INFO - Total Sections                : 1594
+2026-01-06 18:20:28,725 - __main__ - INFO - Total Custom Fields           : 72
+2026-01-06 18:20:28,725 - __main__ - INFO - Total Custom Field Values     : 143
+2026-01-06 18:20:28,725 - __main__ - INFO - Avg Tasks per Project         : 20.1
+2026-01-06 18:20:28,725 - __main__ - INFO - Completion Rate               : 78.2%
+2026-01-06 18:20:28,725 - __main__ - INFO - Overdue Rate                  : 1.7%
+2026-01-06 18:20:28,725 - __main__ - INFO - 
+============================================================
+2026-01-06 18:20:28,725 - __main__ - INFO - DATA DISTRIBUTIONS
+2026-01-06 18:20:28,726 - __main__ - INFO - ============================================================
+2026-01-06 18:20:28,735 - __main__ - INFO - 
+Task Priority Distribution:
+2026-01-06 18:20:28,735 - __main__ - INFO -   URGENT :  395 tasks (  4.9%)
+2026-01-06 18:20:28,735 - __main__ - INFO -   HIGH   : 1185 tasks ( 14.7%)
+2026-01-06 18:20:28,735 - __main__ - INFO -   MEDIUM : 4854 tasks ( 60.4%)
+2026-01-06 18:20:28,737 - __main__ - INFO -   LOW    : 1607 tasks ( 20.0%)
+2026-01-06 18:20:28,741 - __main__ - INFO - 
+Due Date Distribution:
+2026-01-06 18:20:28,741 - __main__ - INFO -   Due this month      : 5365 tasks ( 66.7%)
+2026-01-06 18:20:28,742 - __main__ - INFO -   Due this week       : 1998 tasks ( 24.8%)
+2026-01-06 18:20:28,742 - __main__ - INFO -   Future due date     :   25 tasks (  0.3%)
+2026-01-06 18:20:28,742 - __main__ - INFO -   No due date         :  355 tasks (  4.4%)
+2026-01-06 18:20:28,742 - __main__ - INFO -   Overdue             :  298 tasks (  3.7%)
+2026-01-06 18:20:28,744 - __main__ - INFO - 
+Project Type Distribution:
+2026-01-06 18:20:28,744 - __main__ - INFO -   Adhoc          :   19 projects (  4.8%)
+2026-01-06 18:20:28,744 - __main__ - INFO -   Bug Tracking   :   81 projects ( 20.2%)
+2026-01-06 18:20:28,744 - __main__ - INFO -   Campaign       :   69 projects ( 17.2%)
+2026-01-06 18:20:28,744 - __main__ - INFO -   Okr            :   36 projects (  9.0%)
+2026-01-06 18:20:28,745 - __main__ - INFO -   Ongoing        :   68 projects ( 17.0%)
+2026-01-06 18:20:28,745 - __main__ - INFO -   Sprint         :  127 projects ( 31.8%)
+2026-01-06 18:20:28,746 - __main__ - INFO - 
+Team Department Distribution:
+2026-01-06 18:20:28,746 - __main__ - INFO -   Design         :    8 teams
+2026-01-06 18:20:28,746 - __main__ - INFO -   Engineering    :   29 teams
+2026-01-06 18:20:28,746 - __main__ - INFO -   Marketing      :   19 teams
+2026-01-06 18:20:28,746 - __main__ - INFO -   Operations     :    2 teams
+2026-01-06 18:20:28,747 - __main__ - INFO -   Product        :    9 teams
+2026-01-06 18:20:28,747 - __main__ - INFO -   Sales          :   11 teams
+2026-01-06 18:20:28,747 - __main__ - INFO -   Support        :    2 teams
+2026-01-06 18:20:28,747 - __main__ - INFO - 
+============================================================
+2026-01-06 18:20:28,747 - __main__ - INFO - GENERATION SUMMARY
+2026-01-06 18:20:28,747 - __main__ - INFO - ============================================================
+2026-01-06 18:20:28,748 - __main__ - INFO - Start time: 18:20:20
+2026-01-06 18:20:28,748 - __main__ - INFO - End time:   18:20:28
+2026-01-06 18:20:28,748 - __main__ - INFO - Duration:   0:00:08.466408
+2026-01-06 18:20:28,748 - __main__ - INFO - Database:   output/asana_simulation.sqlite
+2026-01-06 18:20:28,748 - __main__ - INFO - Scale:      5000 users, 400 projects
+2026-01-06 18:20:28,748 - __main__ - INFO - 
+============================================================
+2026-01-06 18:20:28,748 - __main__ - INFO - SAMPLE QUERIES TO EXPLORE DATA
+2026-01-06 18:20:28,749 - __main__ - INFO - ============================================================
+2026-01-06 18:20:28,749 - __main__ - INFO - 1. All tasks in a project:
+2026-01-06 18:20:28,749 - __main__ - INFO -    SELECT t.name, u.name as assignee, t.due_date
+2026-01-06 18:20:28,749 - __main__ - INFO -    FROM tasks t LEFT JOIN users u ON t.assignee_id = u.id
+2026-01-06 18:20:28,749 - __main__ - INFO -    WHERE t.project_id = (SELECT id FROM projects LIMIT 1)
+2026-01-06 18:20:28,749 - __main__ - INFO - 
+2026-01-06 18:20:28,749 - __main__ - INFO - 2. Overdue tasks by team:
+2026-01-06 18:20:28,750 - __main__ - INFO -    SELECT t.name as team, COUNT(*) as overdue_tasks
+2026-01-06 18:20:28,750 - __main__ - INFO -    FROM teams t
+2026-01-06 18:20:28,750 - __main__ - INFO -    JOIN projects p ON t.id = p.team_id
+2026-01-06 18:20:28,750 - __main__ - INFO -    JOIN tasks tk ON p.id = tk.project_id
+2026-01-06 18:20:28,750 - __main__ - INFO -    WHERE tk.due_date < DATE('now') AND tk.completed = 0
+2026-01-06 18:20:28,750 - __main__ - INFO -    GROUP BY t.name
+2026-01-06 18:20:28,750 - __main__ - INFO - 
+2026-01-06 18:20:28,750 - __main__ - INFO - 3. User workload:
+2026-01-06 18:20:28,751 - __main__ - INFO -    SELECT u.name, COUNT(t.id) as task_count
+2026-01-06 18:20:28,751 - __main__ - INFO -    FROM users u
+2026-01-06 18:20:28,751 - __main__ - INFO -    LEFT JOIN tasks t ON u.id = t.assignee_id
+2026-01-06 18:20:28,751 - __main__ - INFO -    GROUP BY u.name
+2026-01-06 18:20:28,751 - __main__ - INFO -    ORDER BY task_count DESC
+2026-01-06 18:20:28,751 - __main__ - INFO - 
+2026-01-06 18:20:28,752 - __main__ - INFO - Explore with: sqlite3 output/asana_simulation.sqlite
+2026-01-06 18:20:28,752 - __main__ - INFO - 
+============================================================
+2026-01-06 18:20:28,753 - __main__ - INFO - >>> ASANA SIMULATION GENERATION COMPLETE!
+2026-01-06 18:20:28,753 - __main__ - INFO - ============================================================
+2026-01-06 18:25:29,957 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 18:25:29,959 - __main__ - INFO - ============================================================
+2026-01-06 18:25:29,959 - __main__ - INFO - Configuration:
+2026-01-06 18:25:29,959 - __main__ - INFO -   total_users: 5000
+2026-01-06 18:25:29,960 - __main__ - INFO -   total_teams: 80
+2026-01-06 18:25:29,960 - __main__ - INFO -   total_projects: 400
+2026-01-06 18:25:29,961 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 18:25:29,961 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 18:25:29,961 - __main__ - INFO -   use_gemini: False
+2026-01-06 18:25:29,962 - __main__ - INFO -   gemini_model: none
+2026-01-06 18:25:29,962 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 18:25:30,030 - __main__ - INFO - Database schema created successfully
+2026-01-06 18:25:30,030 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 18:25:30,035 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 18:25:30,035 - __main__ - INFO - 
+Step 3: Generating 5000 users...
+2026-01-06 18:25:30,765 - __main__ - INFO - Generated 5000 users
+2026-01-06 18:25:30,766 - __main__ - INFO - 
+Step 4: Generating 80 teams...
+2026-01-06 18:25:30,776 - __main__ - INFO - Generated 80 teams
+2026-01-06 18:25:30,777 - __main__ - INFO - 
+Step 5: Assigning team memberships...
+2026-01-06 18:25:30,798 - __main__ - INFO - Created 544 team memberships
+2026-01-06 18:25:30,799 - __main__ - INFO - 
+Step 6: Generating 400 projects...
+2026-01-06 18:25:31,114 - __main__ - INFO - Generated 400 projects
+2026-01-06 18:25:31,115 - __main__ - INFO - 
+Step 7: Generating project sections...
+2026-01-06 18:25:31,225 - __main__ - INFO - Generated 1590 sections
+2026-01-06 18:25:31,225 - __main__ - INFO - 
+Step 8: Generating tasks...
+2026-01-06 18:25:31,225 - __main__ - INFO -    Using template-based generation (Gemini disabled)
+2026-01-06 18:25:37,938 - __main__ - INFO - Generated 8009 tasks
+2026-01-06 18:25:37,938 - __main__ - INFO - 
+Sample generated tasks:
+2026-01-06 18:25:37,938 - __main__ - INFO -   1. MEDIUM: Fix dependency conflict in Authentication Service
+2026-01-06 18:25:37,938 - __main__ - INFO -      Desc: ## Bug Report: dependency conflict in Authentication Service
+
+**Severity**: P1 -...
+2026-01-06 18:25:37,939 - __main__ - INFO -   2. Sprint 4: Deliverable review
+2026-01-06 18:25:37,939 - __main__ - INFO -      Desc: ## Task: Sprint 4: Deliverable review
+
+**Objective**:
+Enhance user experience an...
+2026-01-06 18:25:37,939 - __main__ - INFO -   3. Update monthly report
+2026-01-06 18:25:37,939 - __main__ - INFO -      Desc: ## Task: Update monthly report
+
+**Objective**:
+Increase operational efficiency a...
+2026-01-06 18:25:37,939 - __main__ - INFO -   4. Enterprise Sales Push: Performance review
+2026-01-06 18:25:37,939 - __main__ - INFO -      Desc: ### Enterprise Sales Push: Performance review
+
+**Background**:
+This work support...
+2026-01-06 18:25:37,939 - __main__ - INFO -   5. Customer Success Stories: Create social media calendar
+2026-01-06 18:25:37,939 - __main__ - INFO -      Desc: ### Social Media Calendar for Customer Success Stories
+
+**Purpose**:
+Create enga...
+2026-01-06 18:25:37,940 - __main__ - INFO - 
+Step 9: Generating subtasks...
+2026-01-06 18:25:38,026 - __main__ - INFO - Generated 140 subtasks
+2026-01-06 18:25:38,027 - __main__ - INFO - 
+Step 10: Generating comments...
+2026-01-06 18:25:38,059 - __main__ - INFO - Generated 1000 comments
+2026-01-06 18:25:38,059 - __main__ - INFO - 
+Sample comments:
+2026-01-06 18:25:38,059 - __main__ - INFO -   1. On 'Q3 Product Launch: Budget plan...': All tests passing locally.
+2026-01-06 18:25:38,060 - __main__ - INFO -   2. On 'Q3 Product Launch: Performance...': Are there any existing examples I should look at?
+2026-01-06 18:25:38,060 - __main__ - INFO -   3. On 'Sprint 3: Retrospective planni...': As discussed in the meeting, we decided to proceed with the ...
+2026-01-06 18:25:38,060 - __main__ - INFO - 
+Step 11: Generating tags...
+2026-01-06 18:25:38,070 - __main__ - INFO - Generated 50 tags and 0 associations
+2026-01-06 18:25:38,071 - __main__ - INFO - 
+Sample tags:
+2026-01-06 18:25:38,071 - __main__ - INFO -   performance, accessibility, design-review, blocker, qa, low-priority, api, database
+2026-01-06 18:25:38,071 - __main__ - INFO - 
+Step 12: Generating custom fields...
+2026-01-06 18:25:38,076 - __main__ - INFO - Generated 70 custom field definitions
+2026-01-06 18:25:38,092 - __main__ - INFO - Generated 130 custom field values
+2026-01-06 18:25:38,093 - __main__ - INFO - 
+Step 13: Validating database...
+2026-01-06 18:25:38,143 - __main__ - WARNING - Found 23 validation issues:
+2026-01-06 18:25:38,144 - __main__ - WARNING -   * Comment 15d7e45562c3458fb71a5c510b2509b9 created before task 13c672959c8c42a99183079fdf603354
+2026-01-06 18:25:38,144 - __main__ - WARNING -   * Comment 6f731e33a0054ec6ba356f6b1a369a17 created before task 13c672959c8c42a99183079fdf603354
+2026-01-06 18:25:38,145 - __main__ - WARNING -   * Comment 91658ea2bf614572bb3328338cd20bfb created before task da9bd6c515f1431aa5dd61e56f154a0e
+2026-01-06 18:25:38,146 - __main__ - WARNING -   * Comment 9c32ac3af4c7428e868bcf642a25720f created before task a0674b06133a4067b73755f4cfaf4b13
+2026-01-06 18:25:38,146 - __main__ - WARNING -   * Comment 38904113f53444439873ce5f72c6719a created before task 08fb60334cd9454799eaa11bb6e862d3
+2026-01-06 18:25:38,146 - __main__ - WARNING -   * Comment 96cd2e0f14b540a2b063ea3fcd525d0b created before task 338cefe3fcb842a38e92e6db148f5d42
+2026-01-06 18:25:38,146 - __main__ - WARNING -   * Comment 860f87302386441bb449b2b051009e85 created before task 08fb60334cd9454799eaa11bb6e862d3
+2026-01-06 18:25:38,147 - __main__ - WARNING -   * Comment 005e78fe069a447f9f5fcd049bebfdfc created before task da9bd6c515f1431aa5dd61e56f154a0e
+2026-01-06 18:25:38,147 - __main__ - WARNING -   * Comment c4f5db17978448b983205a126a09c3c3 created before task 08fb60334cd9454799eaa11bb6e862d3
+2026-01-06 18:25:38,147 - __main__ - WARNING -   * Comment 45b79008619145acaff8dec58b5d6317 created before task a0674b06133a4067b73755f4cfaf4b13
+2026-01-06 18:25:38,147 - __main__ - WARNING -   ... and 13 more issues
+2026-01-06 18:25:38,147 - __main__ - INFO - 
+============================================================
+2026-01-06 18:25:38,147 - __main__ - INFO - GENERATION COMPLETE - FINAL STATISTICS
+2026-01-06 18:25:38,147 - __main__ - INFO - ============================================================
+2026-01-06 18:25:38,176 - __main__ - INFO - Total Users                   : 5000
+2026-01-06 18:25:38,176 - __main__ - INFO - Active Users                  : 4771
+2026-01-06 18:25:38,176 - __main__ - INFO - Total Teams                   : 80
+2026-01-06 18:25:38,177 - __main__ - INFO - Total Projects                : 400
+2026-01-06 18:25:38,177 - __main__ - INFO - Active Projects               : 262
+2026-01-06 18:25:38,177 - __main__ - INFO - Total Tasks                   : 8149
+2026-01-06 18:25:38,177 - __main__ - INFO - Completed Tasks               : 6399
+2026-01-06 18:25:38,177 - __main__ - INFO - Tasks with Due Dates          : 7763
+2026-01-06 18:25:38,178 - __main__ - INFO - Overdue Tasks                 : 150
+2026-01-06 18:25:38,178 - __main__ - INFO - Unassigned Tasks              : 1304
+2026-01-06 18:25:38,178 - __main__ - INFO - Total Comments                : 1000
+2026-01-06 18:25:38,178 - __main__ - INFO - Total Tags                    : 50
+2026-01-06 18:25:38,179 - __main__ - INFO - Tasks with Subtasks           : 50
+2026-01-06 18:25:38,179 - __main__ - INFO - Total Sections                : 1590
+2026-01-06 18:25:38,179 - __main__ - INFO - Total Custom Fields           : 70
+2026-01-06 18:25:38,179 - __main__ - INFO - Total Custom Field Values     : 130
+2026-01-06 18:25:38,179 - __main__ - INFO - Avg Tasks per Project         : 20.4
+2026-01-06 18:25:38,179 - __main__ - INFO - Completion Rate               : 78.5%
+2026-01-06 18:25:38,179 - __main__ - INFO - Overdue Rate                  : 1.9%
+2026-01-06 18:25:38,180 - __main__ - INFO - 
+============================================================
+2026-01-06 18:25:38,180 - __main__ - INFO - DATA DISTRIBUTIONS
+2026-01-06 18:25:38,180 - __main__ - INFO - ============================================================
+2026-01-06 18:25:38,190 - __main__ - INFO - 
+Task Priority Distribution:
+2026-01-06 18:25:38,191 - __main__ - INFO -   URGENT :  385 tasks (  4.7%)
+2026-01-06 18:25:38,191 - __main__ - INFO -   HIGH   : 1196 tasks ( 14.7%)
+2026-01-06 18:25:38,191 - __main__ - INFO -   MEDIUM : 4939 tasks ( 60.6%)
+2026-01-06 18:25:38,191 - __main__ - INFO -   LOW    : 1629 tasks ( 20.0%)
+2026-01-06 18:25:38,196 - __main__ - INFO - 
+Due Date Distribution:
+2026-01-06 18:25:38,196 - __main__ - INFO -   Due this month      : 5461 tasks ( 67.0%)
+2026-01-06 18:25:38,196 - __main__ - INFO -   Due this week       : 1990 tasks ( 24.4%)
+2026-01-06 18:25:38,196 - __main__ - INFO -   Future due date     :   20 tasks (  0.2%)
+2026-01-06 18:25:38,196 - __main__ - INFO -   No due date         :  386 tasks (  4.7%)
+2026-01-06 18:25:38,196 - __main__ - INFO -   Overdue             :  292 tasks (  3.6%)
+2026-01-06 18:25:38,198 - __main__ - INFO - 
+Project Type Distribution:
+2026-01-06 18:25:38,198 - __main__ - INFO -   Adhoc          :   14 projects (  3.5%)
+2026-01-06 18:25:38,198 - __main__ - INFO -   Bug Tracking   :   83 projects ( 20.8%)
+2026-01-06 18:25:38,198 - __main__ - INFO -   Campaign       :   54 projects ( 13.5%)
+2026-01-06 18:25:38,198 - __main__ - INFO -   Okr            :   32 projects (  8.0%)
+2026-01-06 18:25:38,198 - __main__ - INFO -   Ongoing        :   75 projects ( 18.8%)
+2026-01-06 18:25:38,198 - __main__ - INFO -   Sprint         :  142 projects ( 35.5%)
+2026-01-06 18:25:38,199 - __main__ - INFO - 
+Team Department Distribution:
+2026-01-06 18:25:38,199 - __main__ - INFO -   Design         :    4 teams
+2026-01-06 18:25:38,200 - __main__ - INFO -   Engineering    :   22 teams
+2026-01-06 18:25:38,200 - __main__ - INFO -   Marketing      :   14 teams
+2026-01-06 18:25:38,200 - __main__ - INFO -   Operations     :    5 teams
+2026-01-06 18:25:38,200 - __main__ - INFO -   Product        :   13 teams
+2026-01-06 18:25:38,200 - __main__ - INFO -   Sales          :   19 teams
+2026-01-06 18:25:38,200 - __main__ - INFO -   Support        :    3 teams
+2026-01-06 18:25:38,201 - __main__ - INFO - 
+============================================================
+2026-01-06 18:25:38,201 - __main__ - INFO - GENERATION SUMMARY
+2026-01-06 18:25:38,201 - __main__ - INFO - ============================================================
+2026-01-06 18:25:38,201 - __main__ - INFO - Start time: 18:25:29
+2026-01-06 18:25:38,201 - __main__ - INFO - End time:   18:25:38
+2026-01-06 18:25:38,201 - __main__ - INFO - Duration:   0:00:08.242604
+2026-01-06 18:25:38,201 - __main__ - INFO - Database:   output/asana_simulation.sqlite
+2026-01-06 18:25:38,202 - __main__ - INFO - Scale:      5000 users, 400 projects
+2026-01-06 18:25:38,202 - __main__ - INFO - 
+============================================================
+2026-01-06 18:25:38,202 - __main__ - INFO - SAMPLE QUERIES TO EXPLORE DATA
+2026-01-06 18:25:38,202 - __main__ - INFO - ============================================================
+2026-01-06 18:25:38,202 - __main__ - INFO - 1. All tasks in a project:
+2026-01-06 18:25:38,202 - __main__ - INFO -    SELECT t.name, u.name as assignee, t.due_date
+2026-01-06 18:25:38,202 - __main__ - INFO -    FROM tasks t LEFT JOIN users u ON t.assignee_id = u.id
+2026-01-06 18:25:38,202 - __main__ - INFO -    WHERE t.project_id = (SELECT id FROM projects LIMIT 1)
+2026-01-06 18:25:38,202 - __main__ - INFO - 
+2026-01-06 18:25:38,202 - __main__ - INFO - 2. Overdue tasks by team:
+2026-01-06 18:25:38,203 - __main__ - INFO -    SELECT t.name as team, COUNT(*) as overdue_tasks
+2026-01-06 18:25:38,203 - __main__ - INFO -    FROM teams t
+2026-01-06 18:25:38,203 - __main__ - INFO -    JOIN projects p ON t.id = p.team_id
+2026-01-06 18:25:38,203 - __main__ - INFO -    JOIN tasks tk ON p.id = tk.project_id
+2026-01-06 18:25:38,203 - __main__ - INFO -    WHERE tk.due_date < DATE('now') AND tk.completed = 0
+2026-01-06 18:25:38,203 - __main__ - INFO -    GROUP BY t.name
+2026-01-06 18:25:38,204 - __main__ - INFO - 
+2026-01-06 18:25:38,204 - __main__ - INFO - 3. User workload:
+2026-01-06 18:25:38,204 - __main__ - INFO -    SELECT u.name, COUNT(t.id) as task_count
+2026-01-06 18:25:38,204 - __main__ - INFO -    FROM users u
+2026-01-06 18:25:38,204 - __main__ - INFO -    LEFT JOIN tasks t ON u.id = t.assignee_id
+2026-01-06 18:25:38,205 - __main__ - INFO -    GROUP BY u.name
+2026-01-06 18:25:38,205 - __main__ - INFO -    ORDER BY task_count DESC
+2026-01-06 18:25:38,205 - __main__ - INFO - 
+2026-01-06 18:25:38,205 - __main__ - INFO - Explore with: sqlite3 output/asana_simulation.sqlite
+2026-01-06 18:25:38,205 - __main__ - INFO - 
+============================================================
+2026-01-06 18:25:38,205 - __main__ - INFO - >>> ASANA SIMULATION GENERATION COMPLETE!
+2026-01-06 18:25:38,205 - __main__ - INFO - ============================================================
+2026-01-06 23:23:32,297 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 23:23:32,298 - __main__ - INFO - ============================================================
+2026-01-06 23:23:32,298 - __main__ - INFO - Configuration:
+2026-01-06 23:23:32,298 - __main__ - INFO -   total_users: 5000
+2026-01-06 23:23:32,298 - __main__ - INFO -   total_teams: 80
+2026-01-06 23:23:32,298 - __main__ - INFO -   total_projects: 400
+2026-01-06 23:23:32,298 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 23:23:32,298 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 23:23:32,299 - __main__ - INFO -   use_gemini: False
+2026-01-06 23:23:32,299 - __main__ - INFO -   gemini_model: none
+2026-01-06 23:23:32,299 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 23:23:32,384 - __main__ - INFO - Database schema created successfully
+2026-01-06 23:23:32,385 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 23:23:32,390 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 23:23:32,391 - __main__ - INFO - 
+Step 3: Generating 5000 users...
+2026-01-06 23:23:33,375 - __main__ - INFO - Generated 5000 users
+2026-01-06 23:23:33,375 - __main__ - INFO - 
+Step 4: Generating 80 teams...
+2026-01-06 23:23:33,387 - __main__ - INFO - Generated 80 teams
+2026-01-06 23:23:33,387 - __main__ - INFO - 
+Step 5: Assigning team memberships...
+2026-01-06 23:23:33,420 - __main__ - INFO - Created 504 team memberships
+2026-01-06 23:23:33,420 - __main__ - INFO - 
+Step 6: Generating 400 projects...
+2026-01-06 23:23:33,866 - __main__ - INFO - Generated 400 projects
+2026-01-06 23:23:33,866 - __main__ - INFO - 
+Step 7: Generating project sections...
+2026-01-06 23:23:33,991 - __main__ - INFO - Generated 1582 sections
+2026-01-06 23:23:33,991 - __main__ - INFO - 
+Step 8: Generating tasks...
+2026-01-06 23:23:33,991 - __main__ - INFO -    Using template-based generation (Gemini disabled)
+2026-01-06 23:23:41,436 - __main__ - INFO - Generated 8097 tasks
+2026-01-06 23:23:41,436 - __main__ - INFO - 
+Sample generated tasks:
+2026-01-06 23:23:41,437 - __main__ - INFO -   1. Customer Success Stories: Create product demo
+2026-01-06 23:23:41,437 - __main__ - INFO -      Desc: ### Customer Success Stories: Create product demo
+
+**Background**:
+This work sup...
+2026-01-06 23:23:41,437 - __main__ - INFO -   2. URGENT: Fix data corruption in Payment Gateway
+2026-01-06 23:23:41,437 - __main__ - INFO -      Desc: ## Bug Report: data corruption in Payment Gateway
+
+**Severity**: P1 - High
+
+**St...
+2026-01-06 23:23:41,438 - __main__ - INFO -   3. Holiday Season Promo: Create sales deck
+2026-01-06 23:23:41,438 - __main__ - INFO -      Desc: ## Task: Holiday Season Promo: Create sales deck
+
+**Objective**:
+Improve system ...
+2026-01-06 23:23:41,438 - __main__ - INFO -   4. Sprint 5: Demo preparation
+2026-01-06 23:23:41,438 - __main__ - INFO -      Desc: ### Sprint 5: Demo preparation
+
+**Background**:
+This work supports our customer ...
+2026-01-06 23:23:41,438 - __main__ - INFO -   5. Review budget forecast
+2026-01-06 23:23:41,439 - __main__ - INFO -      Desc: ## Operations Task: vendor contract renewal
+**Quarter**: Q3 2024
+
+**Context**:
+T...
+2026-01-06 23:23:41,439 - __main__ - INFO - 
+Step 9: Generating subtasks...
+2026-01-06 23:23:41,578 - __main__ - INFO - Generated 154 subtasks
+2026-01-06 23:23:41,579 - __main__ - INFO - 
+Step 10: Generating comments...
+2026-01-06 23:23:41,638 - __main__ - INFO - Generated 1000 comments
+2026-01-06 23:23:41,639 - __main__ - INFO - 
+Sample comments:
+2026-01-06 23:23:41,639 - __main__ - INFO -   1. On 'Sprint 10: Deliverable review...': Consider refactoring this for better readability.
+2026-01-06 23:23:41,640 - __main__ - INFO -   2. On 'Enterprise Sales Push: Create ...': Approved with minor comments.
+2026-01-06 23:23:41,640 - __main__ - INFO -   3. On 'Review monthly report...': ✅ Approved - ready for merge.
+2026-01-06 23:23:41,640 - __main__ - INFO - 
+Step 11: Generating tags...
+2026-01-06 23:23:41,659 - __main__ - INFO - Generated 50 tags and 0 associations
+2026-01-06 23:23:41,660 - __main__ - INFO - 
+Sample tags:
+2026-01-06 23:23:41,660 - __main__ - INFO -   quick-win, devops, mobile, next-release, api, security, ui, trial
+2026-01-06 23:23:41,661 - __main__ - INFO - 
+Step 12: Generating custom fields...
+2026-01-06 23:23:41,674 - __main__ - INFO - Generated 69 custom field definitions
+2026-01-06 23:23:41,702 - __main__ - INFO - Generated 158 custom field values
+2026-01-06 23:23:41,702 - __main__ - INFO - 
+Step 13: Validating database...
+2026-01-06 23:23:41,780 - __main__ - WARNING - Found 20 validation issues:
+2026-01-06 23:23:41,781 - __main__ - WARNING -   * Comment 9f86e9808c814876953fa9a27f54b98c created before task 4204dbf7ec484dfcb17370564e38b1d6
+2026-01-06 23:23:41,781 - __main__ - WARNING -   * Comment 925fb068e532443babcc7ffdf81b835b created before task e19ee4ba26cc4e7bb763bb1ab8ea9e2d
+2026-01-06 23:23:41,782 - __main__ - WARNING -   * Comment b1f729ed83f54bc0b898ba5f980c7a64 created before task 57213ebfee0646a69e9d3d1a43f8052c
+2026-01-06 23:23:41,782 - __main__ - WARNING -   * Comment 5cd0db82e1ae42daaea473ea21db5a42 created before task 57213ebfee0646a69e9d3d1a43f8052c
+2026-01-06 23:23:41,782 - __main__ - WARNING -   * Comment 2dd4d7eb575747e58a8235597ba964f1 created before task e769fc7ee87d485e8c04275646efcb4b
+2026-01-06 23:23:41,782 - __main__ - WARNING -   * Comment 5ab6eea993d04d69b4e27134f8b67d89 created before task 4204dbf7ec484dfcb17370564e38b1d6
+2026-01-06 23:23:41,783 - __main__ - WARNING -   * Comment 10a4891c1ec74e0a829b9831b4bb0ac3 created before task e19ee4ba26cc4e7bb763bb1ab8ea9e2d
+2026-01-06 23:23:41,783 - __main__ - WARNING -   * Comment c9b3b0a56e3d4dde9fd0e3b0f4ec9ed4 created before task ca90b99021914536bb24cc8e9a6010d3
+2026-01-06 23:23:41,783 - __main__ - WARNING -   * Comment e82cf6ffd1cc43e9a9ca99762263dc2c created before task 447238e3b3c74ac09aeecaf8c7b5644d
+2026-01-06 23:23:41,783 - __main__ - WARNING -   * Comment ca3010d8e0df4a8395fb7fcbf02a40de created before task b0fb75f12a424007aae5b4c9962cc6bb
+2026-01-06 23:23:41,784 - __main__ - WARNING -   ... and 10 more issues
+2026-01-06 23:23:41,784 - __main__ - INFO - 
+============================================================
+2026-01-06 23:23:41,784 - __main__ - INFO - GENERATION COMPLETE - FINAL STATISTICS
+2026-01-06 23:23:41,784 - __main__ - INFO - ============================================================
+2026-01-06 23:23:41,827 - __main__ - INFO - Total Users                   : 5000
+2026-01-06 23:23:41,827 - __main__ - INFO - Active Users                  : 4735
+2026-01-06 23:23:41,828 - __main__ - INFO - Total Teams                   : 80
+2026-01-06 23:23:41,828 - __main__ - INFO - Total Projects                : 400
+2026-01-06 23:23:41,828 - __main__ - INFO - Active Projects               : 255
+2026-01-06 23:23:41,828 - __main__ - INFO - Total Tasks                   : 8251
+2026-01-06 23:23:41,828 - __main__ - INFO - Completed Tasks               : 6521
+2026-01-06 23:23:41,828 - __main__ - INFO - Tasks with Due Dates          : 7845
+2026-01-06 23:23:41,829 - __main__ - INFO - Overdue Tasks                 : 139
+2026-01-06 23:23:41,829 - __main__ - INFO - Unassigned Tasks              : 1285
+2026-01-06 23:23:41,829 - __main__ - INFO - Total Comments                : 1000
+2026-01-06 23:23:41,829 - __main__ - INFO - Total Tags                    : 50
+2026-01-06 23:23:41,830 - __main__ - INFO - Tasks with Subtasks           : 50
+2026-01-06 23:23:41,830 - __main__ - INFO - Total Sections                : 1582
+2026-01-06 23:23:41,830 - __main__ - INFO - Total Custom Fields           : 69
+2026-01-06 23:23:41,830 - __main__ - INFO - Total Custom Field Values     : 158
+2026-01-06 23:23:41,830 - __main__ - INFO - Avg Tasks per Project         : 20.6
+2026-01-06 23:23:41,831 - __main__ - INFO - Completion Rate               : 79.0%
+2026-01-06 23:23:41,831 - __main__ - INFO - Overdue Rate                  : 1.8%
+2026-01-06 23:23:41,831 - __main__ - INFO - 
+============================================================
+2026-01-06 23:23:41,831 - __main__ - INFO - DATA DISTRIBUTIONS
+2026-01-06 23:23:41,831 - __main__ - INFO - ============================================================
+2026-01-06 23:23:41,846 - __main__ - INFO - 
+Task Priority Distribution:
+2026-01-06 23:23:41,847 - __main__ - INFO -   URGENT :  396 tasks (  4.8%)
+2026-01-06 23:23:41,847 - __main__ - INFO -   HIGH   : 1206 tasks ( 14.6%)
+2026-01-06 23:23:41,847 - __main__ - INFO -   MEDIUM : 4912 tasks ( 59.5%)
+2026-01-06 23:23:41,847 - __main__ - INFO -   LOW    : 1737 tasks ( 21.1%)
+2026-01-06 23:23:41,853 - __main__ - INFO - 
+Due Date Distribution:
+2026-01-06 23:23:41,854 - __main__ - INFO -   Due this month      : 5518 tasks ( 66.9%)
+2026-01-06 23:23:41,854 - __main__ - INFO -   Due this week       : 2018 tasks ( 24.5%)
+2026-01-06 23:23:41,854 - __main__ - INFO -   Future due date     :   17 tasks (  0.2%)
+2026-01-06 23:23:41,855 - __main__ - INFO -   No due date         :  406 tasks (  4.9%)
+2026-01-06 23:23:41,855 - __main__ - INFO -   Overdue             :  292 tasks (  3.5%)
+2026-01-06 23:23:41,856 - __main__ - INFO - 
+Project Type Distribution:
+2026-01-06 23:23:41,857 - __main__ - INFO -   Adhoc          :   21 projects (  5.2%)
+2026-01-06 23:23:41,857 - __main__ - INFO -   Bug Tracking   :   66 projects ( 16.5%)
+2026-01-06 23:23:41,857 - __main__ - INFO -   Campaign       :   55 projects ( 13.8%)
+2026-01-06 23:23:41,857 - __main__ - INFO -   Okr            :   38 projects (  9.5%)
+2026-01-06 23:23:41,858 - __main__ - INFO -   Ongoing        :   59 projects ( 14.8%)
+2026-01-06 23:23:41,858 - __main__ - INFO -   Sprint         :  161 projects ( 40.2%)
+2026-01-06 23:23:41,860 - __main__ - INFO - 
+Team Department Distribution:
+2026-01-06 23:23:41,861 - __main__ - INFO -   Design         :    7 teams
+2026-01-06 23:23:41,861 - __main__ - INFO -   Engineering    :   24 teams
+2026-01-06 23:23:41,861 - __main__ - INFO -   Marketing      :   13 teams
+2026-01-06 23:23:41,862 - __main__ - INFO -   Operations     :    6 teams
+2026-01-06 23:23:41,862 - __main__ - INFO -   Product        :   15 teams
+2026-01-06 23:23:41,863 - __main__ - INFO -   Sales          :   13 teams
+2026-01-06 23:23:41,863 - __main__ - INFO -   Support        :    2 teams
+2026-01-06 23:23:41,863 - __main__ - INFO - 
+============================================================
+2026-01-06 23:23:41,863 - __main__ - INFO - GENERATION SUMMARY
+2026-01-06 23:23:41,864 - __main__ - INFO - ============================================================
+2026-01-06 23:23:41,864 - __main__ - INFO - Start time: 23:23:32
+2026-01-06 23:23:41,864 - __main__ - INFO - End time:   23:23:41
+2026-01-06 23:23:41,864 - __main__ - INFO - Duration:   0:00:09.565609
+2026-01-06 23:23:41,865 - __main__ - INFO - Database:   output/asana_simulation.sqlite
+2026-01-06 23:23:41,865 - __main__ - INFO - Scale:      5000 users, 400 projects
+2026-01-06 23:23:41,865 - __main__ - INFO - 
+============================================================
+2026-01-06 23:23:41,865 - __main__ - INFO - SAMPLE QUERIES TO EXPLORE DATA
+2026-01-06 23:23:41,866 - __main__ - INFO - ============================================================
+2026-01-06 23:23:41,866 - __main__ - INFO - 1. All tasks in a project:
+2026-01-06 23:23:41,866 - __main__ - INFO -    SELECT t.name, u.name as assignee, t.due_date
+2026-01-06 23:23:41,866 - __main__ - INFO -    FROM tasks t LEFT JOIN users u ON t.assignee_id = u.id
+2026-01-06 23:23:41,867 - __main__ - INFO -    WHERE t.project_id = (SELECT id FROM projects LIMIT 1)
+2026-01-06 23:23:41,867 - __main__ - INFO - 
+2026-01-06 23:23:41,867 - __main__ - INFO - 2. Overdue tasks by team:
+2026-01-06 23:23:41,867 - __main__ - INFO -    SELECT t.name as team, COUNT(*) as overdue_tasks
+2026-01-06 23:23:41,867 - __main__ - INFO -    FROM teams t
+2026-01-06 23:23:41,868 - __main__ - INFO -    JOIN projects p ON t.id = p.team_id
+2026-01-06 23:23:41,868 - __main__ - INFO -    JOIN tasks tk ON p.id = tk.project_id
+2026-01-06 23:23:41,868 - __main__ - INFO -    WHERE tk.due_date < DATE('now') AND tk.completed = 0
+2026-01-06 23:23:41,868 - __main__ - INFO -    GROUP BY t.name
+2026-01-06 23:23:41,868 - __main__ - INFO - 
+2026-01-06 23:23:41,868 - __main__ - INFO - 3. User workload:
+2026-01-06 23:23:41,869 - __main__ - INFO -    SELECT u.name, COUNT(t.id) as task_count
+2026-01-06 23:23:41,869 - __main__ - INFO -    FROM users u
+2026-01-06 23:23:41,869 - __main__ - INFO -    LEFT JOIN tasks t ON u.id = t.assignee_id
+2026-01-06 23:23:41,869 - __main__ - INFO -    GROUP BY u.name
+2026-01-06 23:23:41,870 - __main__ - INFO -    ORDER BY task_count DESC
+2026-01-06 23:23:41,870 - __main__ - INFO - 
+2026-01-06 23:23:41,870 - __main__ - INFO - Explore with: sqlite3 output/asana_simulation.sqlite
+2026-01-06 23:23:41,870 - __main__ - INFO - 
+============================================================
+2026-01-06 23:23:41,870 - __main__ - INFO - >>> ASANA SIMULATION GENERATION COMPLETE!
+2026-01-06 23:23:41,871 - __main__ - INFO - ============================================================
+2026-01-06 23:35:06,015 - __main__ - INFO - >>> Starting Asana RL Environment Simulation
+2026-01-06 23:35:06,015 - __main__ - INFO - ============================================================
+2026-01-06 23:35:06,016 - __main__ - INFO - Configuration:
+2026-01-06 23:35:06,016 - __main__ - INFO -   total_users: 5000
+2026-01-06 23:35:06,016 - __main__ - INFO -   total_teams: 80
+2026-01-06 23:35:06,016 - __main__ - INFO -   total_projects: 400
+2026-01-06 23:35:06,017 - __main__ - INFO -   company_domain: techflowsolutions.com
+2026-01-06 23:35:06,017 - __main__ - INFO -   company_name: TechFlow Solutions
+2026-01-06 23:35:06,017 - __main__ - INFO -   use_gemini: False
+2026-01-06 23:35:06,017 - __main__ - INFO -   gemini_model: none
+2026-01-06 23:35:06,018 - __main__ - INFO - 
+Step 1: Initializing database schema...
+2026-01-06 23:35:06,094 - __main__ - INFO - Database schema created successfully
+2026-01-06 23:35:06,094 - __main__ - INFO - 
+Step 2: Creating organization...
+2026-01-06 23:35:06,101 - __main__ - INFO - Created organization: TechFlow Solutions
+2026-01-06 23:35:06,101 - __main__ - INFO - 
+Step 3: Generating 5000 users...
+2026-01-06 23:35:06,999 - __main__ - INFO - Generated 5000 users
+2026-01-06 23:35:06,999 - __main__ - INFO - 
+Step 4: Generating 80 teams...
+2026-01-06 23:35:07,008 - __main__ - INFO - Generated 80 teams
+2026-01-06 23:35:07,009 - __main__ - INFO - 
+Step 5: Assigning team memberships...
+2026-01-06 23:35:07,036 - __main__ - INFO - Created 549 team memberships
+2026-01-06 23:35:07,036 - __main__ - INFO - 
+Step 6: Generating 400 projects...
+2026-01-06 23:35:07,397 - __main__ - INFO - Generated 400 projects
+2026-01-06 23:35:07,397 - __main__ - INFO - 
+Step 7: Generating project sections...
+2026-01-06 23:35:07,537 - __main__ - INFO - Generated 1594 sections
+2026-01-06 23:35:07,538 - __main__ - INFO - 
+Step 8: Generating tasks...
+2026-01-06 23:35:07,538 - __main__ - INFO -    Using template-based generation (Gemini disabled)
+2026-01-06 23:35:15,530 - __main__ - INFO - Generated 7897 tasks
+2026-01-06 23:35:15,530 - __main__ - INFO - 
+Sample generated tasks:
+2026-01-06 23:35:15,531 - __main__ - INFO -   1. Mobile App (iOS): Implement as part of sprint 10
+2026-01-06 23:35:15,531 - __main__ - INFO -      Desc: ## Task: Mobile App (iOS): Implement as part of sprint 10
+
+**Objective**:
+Streng...
+2026-01-06 23:35:15,531 - __main__ - INFO -   2. URGENT: Fix dependency conflict in User Dashboard
+2026-01-06 23:35:15,532 - __main__ - INFO -      Desc: ### Issue: DEPENDENCY CONFLICT
+**Component**: User Dashboard
+**Priority**: HIGH
+...
+2026-01-06 23:35:15,532 - __main__ - INFO -   3. Sprint 5: Deliverable review
+2026-01-06 23:35:15,532 - __main__ - INFO -      Desc: ## Task: Sprint 5: Deliverable review
+
+**Objective**:
+Increase operational effic...
+2026-01-06 23:35:15,532 - __main__ - INFO -   4. Cache Layer: Optimize with 5 point estimate
+2026-01-06 23:35:15,533 - __main__ - INFO -      Desc: ### Cache Layer: Optimize with 5 point estimate
+
+**Background**:
+This work suppo...
+2026-01-06 23:35:15,533 - __main__ - INFO -   5. Analyze project plan
+2026-01-06 23:35:15,533 - __main__ - INFO -      Desc: ### Analyze project plan
+
+**Background**:
+This work supports our product roadmap...
+2026-01-06 23:35:15,533 - __main__ - INFO - 
+Step 9: Generating subtasks...
+2026-01-06 23:35:15,702 - __main__ - INFO - Generated 140 subtasks
+2026-01-06 23:35:15,703 - __main__ - INFO - 
+Step 10: Generating comments...
+2026-01-06 23:35:15,746 - __main__ - INFO - Generated 1000 comments
+2026-01-06 23:35:15,746 - __main__ - INFO - 
+Sample comments:
+2026-01-06 23:35:15,747 - __main__ - INFO -   1. On 'Q3 Product Launch: Performance...': Based on our discussion, I think we should reconsider the ap...
+2026-01-06 23:35:15,747 - __main__ - INFO -   2. On 'Sprint 8: Demo preparation...': Blocked on API access. Waiting for the PM.
+2026-01-06 23:35:15,748 - __main__ - INFO -   3. On 'Checkout API: Refactor with 2 ...': Based on our discussion, I think we should reconsider the ap...
+2026-01-06 23:35:15,748 - __main__ - INFO - 
+Step 11: Generating tags...
+2026-01-06 23:35:15,765 - __main__ - INFO - Generated 50 tags and 0 associations
+2026-01-06 23:35:15,765 - __main__ - INFO - 
+Sample tags:
+2026-01-06 23:35:15,766 - __main__ - INFO -   refactor, tech-debt, beta, high-priority, feature, needs-info, good-first-issue, sme
+2026-01-06 23:35:15,766 - __main__ - INFO - 
+Step 12: Generating custom fields...
+2026-01-06 23:35:15,773 - __main__ - INFO - Generated 65 custom field definitions
+2026-01-06 23:35:15,796 - __main__ - INFO - Generated 118 custom field values
+2026-01-06 23:35:15,796 - __main__ - INFO - 
+Step 13: Validating database...
+2026-01-06 23:35:15,878 - __main__ - WARNING - Found 12 validation issues:
+2026-01-06 23:35:15,879 - __main__ - WARNING -   * Comment cdc350c5481944acae5461981b314a22 created before task 6ce316e733734205854006bc195c0aec
+2026-01-06 23:35:15,879 - __main__ - WARNING -   * Comment fa51b92e170542648748fa44f1df83c2 created before task 7077248764af483b8ff293171ec4f669
+2026-01-06 23:35:15,879 - __main__ - WARNING -   * Comment 8cbff5a1c6764f5face4a60fdf63bdf3 created before task 38c4259450d048c1abb791e28f7a1d49
+2026-01-06 23:35:15,880 - __main__ - WARNING -   * Comment 5f2e1c6db3b74614b91c9dada6f017b9 created before task f84e75fe40824dc2a640488584e013b7
+2026-01-06 23:35:15,881 - __main__ - WARNING -   * Comment 68986bb4c047426a910fdd3126e092f3 created before task ce6fa1a239ed47b89d4c427a885ad431
+2026-01-06 23:35:15,881 - __main__ - WARNING -   * Comment 374c5e7b715e44a6b9cdc5d5a8f8577e created before task 38c4259450d048c1abb791e28f7a1d49
+2026-01-06 23:35:15,881 - __main__ - WARNING -   * Comment 20308948b5ac45259b6342a67d8956b9 created before task 7dcd2bc2e67745eb9603e526f4351783
+2026-01-06 23:35:15,882 - __main__ - WARNING -   * Comment 966a0f14f982476580d59b9592948eef created before task ad77baf0e77c429b9e2ff2c7c5db0b1a
+2026-01-06 23:35:15,882 - __main__ - WARNING -   * Comment 91b17d91b5614e7ea6f1e842a7601eac created before task 7dcd2bc2e67745eb9603e526f4351783
+2026-01-06 23:35:15,882 - __main__ - WARNING -   * Comment fd68bf37fbed44b0aac9151361937a13 created before task f84e75fe40824dc2a640488584e013b7
+2026-01-06 23:35:15,883 - __main__ - WARNING -   ... and 2 more issues
+2026-01-06 23:35:15,883 - __main__ - INFO - 
+============================================================
+2026-01-06 23:35:15,884 - __main__ - INFO - GENERATION COMPLETE - FINAL STATISTICS
+2026-01-06 23:35:15,884 - __main__ - INFO - ============================================================
+2026-01-06 23:35:15,933 - __main__ - INFO - Total Users                   : 5000
+2026-01-06 23:35:15,933 - __main__ - INFO - Active Users                  : 4743
+2026-01-06 23:35:15,934 - __main__ - INFO - Total Teams                   : 80
+2026-01-06 23:35:15,934 - __main__ - INFO - Total Projects                : 400
+2026-01-06 23:35:15,934 - __main__ - INFO - Active Projects               : 238
+2026-01-06 23:35:15,934 - __main__ - INFO - Total Tasks                   : 8037
+2026-01-06 23:35:15,935 - __main__ - INFO - Completed Tasks               : 6259
+2026-01-06 23:35:15,935 - __main__ - INFO - Tasks with Due Dates          : 7675
+2026-01-06 23:35:15,936 - __main__ - INFO - Overdue Tasks                 : 130
+2026-01-06 23:35:15,936 - __main__ - INFO - Unassigned Tasks              : 1296
+2026-01-06 23:35:15,936 - __main__ - INFO - Total Comments                : 1000
+2026-01-06 23:35:15,936 - __main__ - INFO - Total Tags                    : 50
+2026-01-06 23:35:15,937 - __main__ - INFO - Tasks with Subtasks           : 50
+2026-01-06 23:35:15,937 - __main__ - INFO - Total Sections                : 1594
+2026-01-06 23:35:15,937 - __main__ - INFO - Total Custom Fields           : 65
+2026-01-06 23:35:15,938 - __main__ - INFO - Total Custom Field Values     : 118
+2026-01-06 23:35:15,938 - __main__ - INFO - Avg Tasks per Project         : 20.1
+2026-01-06 23:35:15,938 - __main__ - INFO - Completion Rate               : 77.9%
+2026-01-06 23:35:15,938 - __main__ - INFO - Overdue Rate                  : 1.7%
+2026-01-06 23:35:15,939 - __main__ - INFO - 
+============================================================
+2026-01-06 23:35:15,939 - __main__ - INFO - DATA DISTRIBUTIONS
+2026-01-06 23:35:15,939 - __main__ - INFO - ============================================================
+2026-01-06 23:35:15,954 - __main__ - INFO - 
+Task Priority Distribution:
+2026-01-06 23:35:15,955 - __main__ - INFO -   URGENT :  378 tasks (  4.7%)
+2026-01-06 23:35:15,955 - __main__ - INFO -   HIGH   : 1215 tasks ( 15.1%)
+2026-01-06 23:35:15,956 - __main__ - INFO -   MEDIUM : 4829 tasks ( 60.1%)
+2026-01-06 23:35:15,956 - __main__ - INFO -   LOW    : 1615 tasks ( 20.1%)
+2026-01-06 23:35:15,964 - __main__ - INFO - 
+Due Date Distribution:
+2026-01-06 23:35:15,964 - __main__ - INFO -   Due this month      : 5343 tasks ( 66.5%)
+2026-01-06 23:35:15,964 - __main__ - INFO -   Due this week       : 2038 tasks ( 25.4%)
+2026-01-06 23:35:15,965 - __main__ - INFO -   Future due date     :   19 tasks (  0.2%)
+2026-01-06 23:35:15,965 - __main__ - INFO -   No due date         :  362 tasks (  4.5%)
+2026-01-06 23:35:15,965 - __main__ - INFO -   Overdue             :  275 tasks (  3.4%)
+2026-01-06 23:35:15,967 - __main__ - INFO - 
+Project Type Distribution:
+2026-01-06 23:35:15,967 - __main__ - INFO -   Adhoc          :   17 projects (  4.2%)
+2026-01-06 23:35:15,968 - __main__ - INFO -   Bug Tracking   :   80 projects ( 20.0%)
+2026-01-06 23:35:15,968 - __main__ - INFO -   Campaign       :   59 projects ( 14.8%)
+2026-01-06 23:35:15,968 - __main__ - INFO -   Okr            :   47 projects ( 11.8%)
+2026-01-06 23:35:15,969 - __main__ - INFO -   Ongoing        :   64 projects ( 16.0%)
+2026-01-06 23:35:15,969 - __main__ - INFO -   Sprint         :  133 projects ( 33.2%)
+2026-01-06 23:35:15,971 - __main__ - INFO - 
+Team Department Distribution:
+2026-01-06 23:35:15,971 - __main__ - INFO -   Design         :    7 teams
+2026-01-06 23:35:15,972 - __main__ - INFO -   Engineering    :   28 teams
+2026-01-06 23:35:15,972 - __main__ - INFO -   Marketing      :   16 teams
+2026-01-06 23:35:15,972 - __main__ - INFO -   Operations     :    4 teams
+2026-01-06 23:35:15,972 - __main__ - INFO -   Product        :   10 teams
+2026-01-06 23:35:15,973 - __main__ - INFO -   Sales          :    9 teams
+2026-01-06 23:35:15,973 - __main__ - INFO -   Support        :    6 teams
+2026-01-06 23:35:15,973 - __main__ - INFO - 
+============================================================
+2026-01-06 23:35:15,974 - __main__ - INFO - GENERATION SUMMARY
+2026-01-06 23:35:15,974 - __main__ - INFO - ============================================================
+2026-01-06 23:35:15,974 - __main__ - INFO - Start time: 23:35:06
+2026-01-06 23:35:15,974 - __main__ - INFO - End time:   23:35:15
+2026-01-06 23:35:15,975 - __main__ - INFO - Duration:   0:00:09.958315
+2026-01-06 23:35:15,976 - __main__ - INFO - Database:   output/asana_simulation.sqlite
+2026-01-06 23:35:15,976 - __main__ - INFO - Scale:      5000 users, 400 projects
+2026-01-06 23:35:15,977 - __main__ - INFO - 
+============================================================
+2026-01-06 23:35:15,977 - __main__ - INFO - SAMPLE QUERIES TO EXPLORE DATA
+2026-01-06 23:35:15,977 - __main__ - INFO - ============================================================
+2026-01-06 23:35:15,977 - __main__ - INFO - 1. All tasks in a project:
+2026-01-06 23:35:15,978 - __main__ - INFO -    SELECT t.name, u.name as assignee, t.due_date
+2026-01-06 23:35:15,978 - __main__ - INFO -    FROM tasks t LEFT JOIN users u ON t.assignee_id = u.id
+2026-01-06 23:35:15,978 - __main__ - INFO -    WHERE t.project_id = (SELECT id FROM projects LIMIT 1)
+2026-01-06 23:35:15,978 - __main__ - INFO - 
+2026-01-06 23:35:15,979 - __main__ - INFO - 2. Overdue tasks by team:
+2026-01-06 23:35:15,979 - __main__ - INFO -    SELECT t.name as team, COUNT(*) as overdue_tasks
+2026-01-06 23:35:15,979 - __main__ - INFO -    FROM teams t
+2026-01-06 23:35:15,979 - __main__ - INFO -    JOIN projects p ON t.id = p.team_id
+2026-01-06 23:35:15,979 - __main__ - INFO -    JOIN tasks tk ON p.id = tk.project_id
+2026-01-06 23:35:15,979 - __main__ - INFO -    WHERE tk.due_date < DATE('now') AND tk.completed = 0
+2026-01-06 23:35:15,980 - __main__ - INFO -    GROUP BY t.name
+2026-01-06 23:35:15,980 - __main__ - INFO - 
+2026-01-06 23:35:15,980 - __main__ - INFO - 3. User workload:
+2026-01-06 23:35:15,980 - __main__ - INFO -    SELECT u.name, COUNT(t.id) as task_count
+2026-01-06 23:35:15,981 - __main__ - INFO -    FROM users u
+2026-01-06 23:35:15,981 - __main__ - INFO -    LEFT JOIN tasks t ON u.id = t.assignee_id
+2026-01-06 23:35:15,981 - __main__ - INFO -    GROUP BY u.name
+2026-01-06 23:35:15,982 - __main__ - INFO -    ORDER BY task_count DESC
+2026-01-06 23:35:15,982 - __main__ - INFO - 
+2026-01-06 23:35:15,982 - __main__ - INFO - Explore with: sqlite3 output/asana_simulation.sqlite
+2026-01-06 23:35:15,983 - __main__ - INFO - 
+============================================================
+2026-01-06 23:35:15,983 - __main__ - INFO - >>> ASANA SIMULATION GENERATION COMPLETE!
+2026-01-06 23:35:15,983 - __main__ - INFO - ============================================================
